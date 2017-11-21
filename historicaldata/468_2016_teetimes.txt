@@ -1,0 +1,1 @@
+{"header": { "version" : "1.0"},"tournament" : {"PairingsRound" : "","TournamentName" : "Ryder Cup","TournamentTourType" : "TOR","EventID" : "1","TournamentID" : "R2016468","RecoveryID" : "R20164681","IsGroupingsOfficial" : "No","CurrentRound" : "","NumberOfRounds" : "4","rounds" : []}}
