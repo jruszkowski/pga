@@ -1,12 +1,13 @@
 from __future__ import division
 import sys
-import urllib2
+import urllib.request
 from bs4 import BeautifulSoup
 from unicodedata import normalize
 import mysql.connector
 import scrape_field
 import pandas as pd
-import statsmodels.api as sm
+#import statsmodels.api as sm
+import statsmodels.formula.api as sm
 import scipy
 from matplotlib.backends.backend_agg import FigureCanvasAgg
 from matplotlib.figure import Figure
@@ -28,7 +29,7 @@ def get_scores(year, shortname):
 					and shortname = '%s' \
 					and totalscore > 120;" % (year, shortname))
 	cursor.execute(query)
-	results = {unicode(x): (z, int(y)) for x,y,z in cursor}
+	results = {x: (z, int(y)) for x,y,z in cursor}
 	cursor.close()
 	cnx.close()
 	finisher_results = {x: y[1] for x,y in results.items() if y[0] < 999 and y[1] > 240}
@@ -78,10 +79,11 @@ stats = {
 467: 'SCRAM'
 }
 
-def createdict(page):
+def createdict(url):
    dict_page = {}
-   page = urllib2.urlopen(page)
-   soup = BeautifulSoup(page, "html5lib")
+   request = urllib.request.Request(url)
+   response = urllib.request.urlopen(request)
+   soup = BeautifulSoup(response, "lxml")
    right_table = soup.find('table', class_='table-styled')
    for row in right_table.findAll("tr"):
        cells = row.findAll('td')
@@ -93,10 +95,11 @@ def createdict(page):
    return dict_page
 
 
-def createplyrlist(page):
+def createplyrlist(url):
    plyrlist = []
-   page = urllib2.urlopen(page)
-   soup = BeautifulSoup(page, "html5lib")
+   request = urllib.request.Request(url)
+   response = urllib.request.urlopen(request)
+   soup = BeautifulSoup(response, "lxml")
    right_table = soup.find('table', class_='table-styled')
    for row in right_table.findAll("tr"):
        cells = row.findAll('td')
@@ -106,47 +109,95 @@ def createplyrlist(page):
 
 
 def create_images(past_results):
-	df = pd.DataFrame.from_dict(past_results, orient='index')
-	df.columns = ['Past Score']
-	plot = 'made_cut'
-	if df['Past Score'].mean() < 200:
-		plot = 'cut'
-	plot_rows = ceil(len(stats.keys()) / 2)
-	fig = Figure()
-	fig.set_size_inches(11.5, 36)
-	canvas = FigureCanvasAgg(fig)
-	subplot = 1
-	stat_tscore = {}
-        for i in stats.keys():
-           	page = pagename + str(i) + '.' + year + pagenameend
-		try:
-			df[i] = pd.DataFrame.from_dict(createdict(page), orient='index')
-			df_test = df[[i, 'Past Score']].dropna(how='any')
-			ax = fig.add_subplot(plot_rows, 2, subplot)
-			ax.set_title(stats[i])
-			ax.scatter(df_test['Past Score'].tolist(), df_test[i].tolist())
-			subplot+=1
-			y = df_test['Past Score'].dropna().tolist()
-			x = df_test[i].dropna().tolist()
-			x = sm.add_constant(x)
-			model = sm.OLS(y, x)
-			results = model.fit()
-			stat_tscore[stats[i]] = results.tvalues[1]
-		except:
-			print stats[i], i, ' No good'
-			continue
-	canvas.print_png('images/' + plot + '.png')
-	df_tscore = pd.DataFrame.from_dict(stat_tscore, orient='index')	
-	df_tscore.columns = ['tscore']
-	df_tscore['tscore_abs'] = df_tscore['tscore'].abs()
-	print (plot, df_tscore.sort_values('tscore_abs', ascending=False).head(10))
+    df = pd.DataFrame.from_dict(past_results, orient='index')
+    df.columns = ['Past Score']
+    plot = 'made_cut'
+    if df['Past Score'].mean() < 200:
+            plot = 'cut'
+    plot_rows = ceil(len(stats.keys()) / 2)
+    fig = Figure()
+    fig.set_size_inches(11.5, 36)
+    canvas = FigureCanvasAgg(fig)
+    subplot = 1
+    stat_tscore = {}
+    for i in stats.keys():
+        page = pagename + str(i) + '.' + year + pagenameend
+        try:
+                df[i] = pd.DataFrame.from_dict(createdict(page), orient='index')
+                df_test = df[[i, 'Past Score']].dropna(how='any')
+                ax = fig.add_subplot(plot_rows, 2, subplot)
+                ax.set_title(stats[i])
+                ax.scatter(df_test['Past Score'].tolist(), df_test[i].tolist())
+                subplot+=1
+                y = df_test['Past Score'].dropna().tolist()
+                x = df_test[i].dropna().tolist()
+                x = sm.add_constant(x)
+                model = sm.OLS(y, x)
+                results = model.fit()
+                stat_tscore[stats[i]] = results.tvalues[1]
+        except:
+                print (stats[i], i, ' No good')
+                continue
+    canvas.print_png('images/' + plot + '.png')
+    df_tscore = pd.DataFrame.from_dict(stat_tscore, orient='index')	
+    df_tscore.columns = ['tscore']
+    df_tscore['tscore_abs'] = df_tscore['tscore'].abs()
+    print (plot, df_tscore.sort_values('tscore_abs', ascending=False).head(10))
 
+def get_ols(past_results, get_params=False):
+    ind_var = [209, 217, 114, 144, 190, 102]
+    df = pd.DataFrame.from_dict(past_results, orient='index')
+    for stat in ind_var:
+        page = pagename + str(stat) + '.' + str(year) + pagenameend
+        try:
+           df[stats[stat]] = pd.DataFrame.from_dict(createdict(page), orient='index')
+        except:
+           print(stats[stat], 'No good')
+           continue
+    df = df.rename(columns={0:'Result'})
+    result = sm.ols(formula="Result ~ LOW + D240 + BIRD_5 + GIR_F + ACCURATE", data=df).fit()
+    if get_params:
+        return (result.params.to_dict())
+    print (result.summary())
+
+
+def get_predicted_score(d_params):
+
+    ind_var = [209, 217, 114, 144, 190, 102]
+    new_field = []
+    new_field_dict = scrape_field.field_dictionary()
+    for key in new_field_dict.keys():
+        for plyr in new_field_dict[key]['players'].keys():
+                new_field.append(plyr)
+    new_field = [x.split(',')[1].strip() + ' ' + x.split(',')[0] for x in new_field]
+
+    df = pd.DataFrame(new_field)
+    df = df.rename(columns={0: 'PredictedScore'})
+    df = df.set_index('PredictedScore')
+    for stat in ind_var:
+       page = pagename + str(stat) + '.' + str(year) + pagenameend
+       try:
+           df[stats[stat]] = pd.DataFrame.from_dict(createdict(page), orient='index')
+       except:
+           print (stats[stat], 'No good')
+           continue
+
+    df['Prediction'] = d_params['Intercept'] \
+            + d_params['LOW'] * df['LOW'] \
+            + d_params['D240'] * df['D240'] \
+            + d_params['BIRD_5'] * df['BIRD_5'] \
+            + d_params['GIR_F'] * df['GIR_F'] \
+            + d_params['ACCURATE'] * df['ACCURATE'] \
+    df = df['Prediction']
+    df.to_csv('masters.csv')
+
+    return df.to_dict()
 
 if __name__=='__main__':
 	shortname = sys.argv[1]
 	year = sys.argv[2]
 	f,c = get_scores(year, shortname)
-	print (scipy.stats.describe(f.values()))
-	print (scipy.stats.describe(c.values()))
+	print (scipy.stats.describe(list(f.values())))
+	print (scipy.stats.describe(list(c.values())))
 	for past_results in [f, c]:
 		create_images(past_results)

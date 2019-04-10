@@ -1,13 +1,15 @@
-import urllib2
+import urllib.request 
 from bs4 import BeautifulSoup
 
 field = "http://www.pgatour.com/data/r/"
+field_v2 = "https://statdata.pgatour.com/r/"
 filedirectory = 'historicaldata/'
 jsonfiles = ['setup', 'tournsum', 'teetimes', 'course', 'field']
 
 def getjson(page):
-    page = urllib2.urlopen(page)
-    soup = BeautifulSoup(page)
+    request = urllib.request.Request(page)
+    response = urllib.request.urlopen(request)
+    soup = BeautifulSoup(response)
     return soup.get_text()
 
 tourneyids = [
@@ -22,17 +24,21 @@ tourneyids = [
 '490'
 ]
 
-years = list(range(2000,2018))
+years = list(range(2017,2019))
 
 for tourneyid in tourneyids:
     for year in years:
         for json in jsonfiles:
             try:
-                print field+tourneyid+'/'+str(year)+'/' + json + '.json'
-                jsondata = getjson(field+tourneyid+'/'+str(year)+'/' + json + '.json')
+                if year < 2018:
+                    address = field
+                else:
+                    address = field_v2
+                print (address+tourneyid+'/'+str(year)+'/' + json + '.json')
+                jsondata = getjson(address+tourneyid+'/'+str(year)+'/' + json + '.json').encode('utf-8').strip()
                 if len(jsondata) > 0:
-                    with open(filedirectory+tourneyid+'_' + str(year) + '_' + json + '.txt', 'w') as f:
+                    with open(filedirectory+tourneyid+'_' + str(year) + '_' + json + '.txt', 'wb') as f:
                         f.write(jsondata)
             except:
-                print 'no good', tourneyid
+                print ('no good', tourneyid)
                 continue

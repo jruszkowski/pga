@@ -1,891 +1,951 @@
-1,040,Buick Challenge,2000,Buick Challenge
-2,040,Buick Challenge,2001,Buick Challenge
-3,040,Buick Challenge,2002,Buick Challenge
-4,023,the Memorial Tournament,2016,the Memorial Tournament presented by Nationwide
-5,023,the Memorial Tournament,2003,the Memorial Tournament
-6,023,the Memorial Tournament,2004,the Memorial Tournament
-7,023,the Memorial Tournament,2005,the Memorial Tournament
-8,023,the Memorial Tournament,2006,the Memorial Tournament
-9,023,the Memorial Tournament,2007,the Memorial Tournament presented by Morgan Stanley
-10,023,the Memorial Tournament,2008,the Memorial Tournament presented by Morgan Stanley
-11,023,the Memorial Tournament,2009,the Memorial Tournament
-12,023,the Memorial Tournament,2010,the Memorial Tournament presented by Nationwide Insurance
-13,023,the Memorial Tournament,2011,the Memorial Tournament presented by Nationwide Insurance
-14,023,the Memorial Tournament,2012,the Memorial Tournament presented by Nationwide Insurance
-15,023,the Memorial Tournament,2013,the Memorial Tournament presented by Nationwide Insurance
-16,023,the Memorial Tournament,2014,the Memorial Tournament presented by Nationwide Insurance
-17,023,the Memorial Tournament,2015,the Memorial Tournament presented by Nationwide
-18,023,Memorial Tournament,2000,Memorial Tournament
-19,023,Memorial Tournament,2001,Memorial Tournament
-20,023,Memorial Tournament,2002,Memorial Tournament
-21,045,Children's Miracle,2011,Children's Miracle Network Hospitals Classic
-22,045,Children's Miracle,2012,Children's Miracle Network Hospitals Classic
-23,045,Disney Golf Classic,2002,Disney Golf Classic
-24,045,National Car at Disney,2000,National Car Rental Golf Classic Disney
-25,045,National Car at Disney,2001,National Car Rental Golf Classic Disney
-26,045,Children's Miracle-Disney,2008,Children's Miracle Network Classic presented by Wal-Mart
-27,045,Children's Miracle-Disney,2009,Children's Miracle Network Classic
-28,045,Children's Miracle-Disney,2010,Children's Miracle Network Classic
-29,045,Children's Miracle-Disney,2007,Children's Miracle Network Classic presented by Wal-Mart
-30,045,FUNAI Classic-Disney,2003,FUNAI Classic at the WALT DISNEY WORLD Resort
-31,045,FUNAI Classic-Disney,2004,FUNAI Classic at the WALT DISNEY WORLD Resort
-32,045,FUNAI Classic-Disney,2005,FUNAI Classic at the WALT DISNEY WORLD Resort
-33,045,FUNAI Classic-Disney,2006,FUNAI Classic at the WALT DISNEY WORLD Resort
-34,004,Farmers Insurance Open,2016,Farmers Insurance Open
-35,004,Farmers Insurance Open,2017,Farmers Insurance Open
-36,004,Farmers Insurance Open,2010,Farmers Insurance Open
-37,004,Farmers Insurance Open,2011,Farmers Insurance Open
-38,004,Farmers Insurance Open,2012,Farmers Insurance Open
-39,004,Farmers Insurance Open,2013,Farmers Insurance Open
-40,004,Farmers Insurance Open,2014,Farmers Insurance Open
-41,004,Farmers Insurance Open,2015,Farmers Insurance Open
-42,004,Buick Invitational,2000,Buick Invitational
-43,004,Buick Invitational,2001,Buick Invitational
-44,004,Buick Invitational,2002,Buick Invitational
-45,004,Buick Invitational,2003,Buick Invitational
-46,004,Buick Invitational,2004,Buick Invitational
-47,004,Buick Invitational,2005,Buick Invitational
-48,004,Buick Invitational,2006,Buick Invitational
-49,004,Buick Invitational,2007,Buick Invitational
-50,004,Buick Invitational,2008,Buick Invitational
-51,004,Buick Invitational,2009,Buick Invitational
-52,035,Buick Open,2000,Buick Open
-53,035,Buick Open,2001,Buick Open
-54,035,Buick Open,2002,Buick Open
-55,035,Buick Open,2003,Buick Open
-56,035,Buick Open,2004,Buick Open
-57,035,Buick Open,2005,Buick Open
-58,035,Buick Open,2006,Buick Open
-59,035,Buick Open,2007,Buick Open
-60,035,Buick Open,2008,Buick Open
-61,035,Buick Open,2009,Buick Open
-62,457,OHL Classic at Mayakoba,2016,OHL Classic at Mayakoba
-63,457,OHL Classic at Mayakoba,2017,OHL Classic at Mayakoba
-64,457,OHL Classic at Mayakoba,2013,OHL Classic at Mayakoba
-65,457,OHL Classic at Mayakoba,2014,OHL Classic at Mayakoba
-66,457,OHL Classic at Mayakoba,2015,OHL Classic at Mayakoba
-67,457,Mayakoba Golf Classic,2007,Mayakoba Golf Classic at Riviera Maya-Cancun
-68,457,Mayakoba Golf Classic,2008,Mayakoba Golf Classic at Riviera Maya-Cancun
-69,457,Mayakoba Golf Classic,2009,Mayakoba Golf Classic at Riviera Maya-Cancun
-70,457,Mayakoba Golf Classic,2010,Mayakoba Golf Classic at Riviera Maya-Cancun
-71,457,Mayakoba Golf Classic,2011,Mayakoba Golf Classic at Riviera Maya-Cancun
-72,457,Mayakoba Golf Classic,2012,Mayakoba Golf Classic
-73,010,The Honda Classic,2016,The Honda Classic
-74,010,The Honda Classic,2017,The Honda Classic
-75,010,The Honda Classic,2002,The Honda Classic
-76,010,The Honda Classic,2003,The Honda Classic
-77,010,The Honda Classic,2004,The Honda Classic
-78,010,The Honda Classic,2005,The Honda Classic
-79,010,The Honda Classic,2006,The Honda Classic
-80,010,The Honda Classic,2007,The Honda Classic
-81,010,The Honda Classic,2008,The Honda Classic
-82,010,The Honda Classic,2009,The Honda Classic
-83,010,The Honda Classic,2010,The Honda Classic
-84,010,The Honda Classic,2011,The Honda Classic
-85,010,The Honda Classic,2012,The Honda Classic
-86,010,The Honda Classic,2013,The Honda Classic
-87,010,The Honda Classic,2014,The Honda Classic
-88,010,The Honda Classic,2015,The Honda Classic
-89,010,Honda Classic,2000,Honda Classic
-90,010,Honda Classic,2001,Honda Classic
-91,054,Viking Classic,2008,Viking Classic
-92,054,Viking Classic,2009,Viking Classic
-93,054,Viking Classic,2010,Viking Classic
-94,054,Viking Classic,2011,Viking Classic
-95,054,Viking Classic,2007,Viking Classic
-96,054,Sanderson Farms Champ.,2016,Sanderson Farms Championship
-97,054,Sanderson Farms Champ.,2017,Sanderson Farms Championship
-98,054,Sanderson Farms Champ.,2013,Sanderson Farms Championship
-99,054,Sanderson Farms Champ.,2014,Sanderson Farms Championship
-100,054,Sanderson Farms Champ.,2015,Sanderson Farms Championship
-101,054,True South Classic,2012,True South Classic
-102,054,Southern Farm Bureau Clas,2000,Southern Farm Bureau Classic
-103,054,Southern Farm Bureau Clas,2001,Southern Farm Bureau Classic
-104,054,Southern Farm Bureau Clas,2002,Southern Farm Bureau Classic
-105,054,Southern Farm Bureau Clas,2003,Southern Farm Bureau Classic
-106,054,Southern Farm Bureau Clas,2004,Southern Farm Bureau Classic
-107,054,Southern Farm Bureau Clas,2005,Southern Farm Bureau Classic
-108,054,Southern Farm Bureau Clas,2006,Southern Farm Bureau Classic
-109,012,MCI Classic,2000,MCI Classic
-110,012,MCI Heritage,2003,MCI Heritage
-111,012,MCI Heritage,2004,MCI Heritage
-112,012,MCI Heritage,2005,MCI Heritage
-113,012,RBC Heritage,2016,RBC Heritage
-114,012,RBC Heritage,2017,RBC Heritage
-115,012,RBC Heritage,2012,RBC Heritage
-116,012,RBC Heritage,2013,RBC Heritage
-117,012,RBC Heritage,2014,RBC Heritage
-118,012,RBC Heritage,2015,RBC Heritage
-119,012,WORLDCOM CLASSIC,2001,WORLDCOM CLASSIC-The Heritage of Golf
-120,012,WORLDCOM CLASSIC,2002,WORLDCOM CLASSIC-The Heritage of Golf
-121,012,The Heritage,2011,The Heritage
-122,012,Verizon Heritage,2008,Verizon Heritage
-123,012,Verizon Heritage,2009,Verizon Heritage
-124,012,Verizon Heritage,2010,Verizon Heritage
-125,012,Verizon Heritage,2006,Verizon Heritage
-126,012,Verizon Heritage,2007,Verizon Heritage
-127,013,Chrysler-Greensboro,2003,Chrysler Classic of Greensboro
-128,013,Chrysler-Greensboro,2004,Chrysler Classic of Greensboro
-129,013,Chrysler-Greensboro,2005,Chrysler Classic of Greensboro
-130,013,Chrysler-Greensboro,2006,Chrysler Classic of Greensboro
-131,013,Greater Greensboro Chrys,2000,Greater Greensboro Chrysler Classic
-132,013,Greater Greensboro Chrys,2001,Greater Greensboro Chrysler Classic
-133,013,Greater Greensboro Chrys,2002,Greater Greensboro Chrysler Classic
-134,013,Wyndham Championship,2016,Wyndham Championship
-135,013,Wyndham Championship,2007,Wyndham Championship
-136,013,Wyndham Championship,2008,Wyndham Championship
-137,013,Wyndham Championship,2009,Wyndham Championship
-138,013,Wyndham Championship,2010,Wyndham Championship
-139,013,Wyndham Championship,2011,Wyndham Championship
-140,013,Wyndham Championship,2012,Wyndham Championship
-141,013,Wyndham Championship,2013,Wyndham Championship
-142,013,Wyndham Championship,2014,Wyndham Championship
-143,013,Wyndham Championship,2015,Wyndham Championship
-144,058,Franklin Templeton,2016,Franklin Templeton Shootout
-145,058,Franklin Templeton,2017,Franklin Templeton Shootout
-146,058,Franklin Templeton,2000,Franklin Templeton Shootout
-147,058,Franklin Templeton,2001,Franklin Templeton Shootout
-148,058,Franklin Templeton,2002,Franklin Templeton Shootout
-149,058,Franklin Templeton,2003,Franklin Templeton Shootout
-150,058,Franklin Templeton,2004,Franklin Templeton Shootout
-151,058,Franklin Templeton,2005,Franklin Templeton Shootout
-152,058,Franklin Templeton,2011,Franklin Templeton Shootout
-153,058,Franklin Templeton,2012,Franklin Templeton Shootout
-154,058,Franklin Templeton,2013,Franklin Templeton Shootout
-155,058,Franklin Templeton,2014,Franklin Templeton Shootout
-156,058,Franklin Templeton,2015,Franklin Templeton Shootout
-157,058,The Shark Shootout,2009,The Shark Shootout
-158,058,The Shark Shootout,2010,The Shark Shootout
-159,058,Merrill Lynch Shootout,2008,Merrill Lynch Shootout
-160,058,Merrill Lynch Shootout,2006,Merrill Lynch Shootout
-161,058,Merrill Lynch Shootout,2007,Merrill Lynch Shootout
-162,016,Hyundai T of C,2016,Hyundai Tournament of Champions
-163,016,Hyundai T of C,2011,Hyundai Tournament of Champions
-164,016,Hyundai T of C,2012,Hyundai Tournament of Champions
-165,016,Hyundai T of C,2013,Hyundai Tournament of Champions
-166,016,Hyundai T of C,2014,Hyundai Tournament of Champions
-167,016,Hyundai T of C,2015,Hyundai Tournament of Champions
-168,016,Mercedes Championships,2000,Mercedes Championships
-169,016,Mercedes Championships,2001,Mercedes Championships
-170,016,Mercedes Championships,2002,Mercedes Championships
-171,016,Mercedes Championships,2003,Mercedes Championships
-172,016,Mercedes Championships,2004,Mercedes Championships
-173,016,Mercedes Championships,2005,Mercedes Championships
-174,016,Mercedes Championships,2006,Mercedes Championships
-175,016,SBS Tournament of Champ,2017,SBS Tournament of Champions
-176,016,Mercedes-Benz Champ,2008,Mercedes-Benz Championship
-177,016,Mercedes-Benz Champ,2009,Mercedes-Benz Championship
-178,016,Mercedes-Benz Champ,2007,Mercedes-Benz Championship
-179,016,SBS Championship,2010,SBS Championship
-180,019,Verizon Byron Nelson,2001,Verizon Byron Nelson Classic
-181,019,Verizon Byron Nelson,2002,Verizon Byron Nelson Classic
-182,019,GTE Byron Nelson Classic,2000,GTE Byron Nelson Classic
-183,019,EDS Byron Nelson Champ,2003,EDS Byron Nelson Championship
-184,019,EDS Byron Nelson Champ,2004,EDS Byron Nelson Championship
-185,019,EDS Byron Nelson Champ,2005,EDS Byron Nelson Championship
-186,019,EDS Byron Nelson Champ,2006,EDS Byron Nelson Championship
-187,019,EDS Byron Nelson Champ,2007,EDS Byron Nelson Championship
-188,019,EDS Byron Nelson Champ,2008,EDS Byron Nelson Championship
-189,019,AT&T; Byron Nelson,2016,AT&T; Byron Nelson
-190,019,AT&T; Byron Nelson,2017,AT&T; Byron Nelson
-191,019,AT&T; Byron Nelson,2015,AT&T; Byron Nelson
-192,019,HP Byron Nelson Champ,2009,HP Byron Nelson Championship
-193,019,HP Byron Nelson Champ,2010,HP Byron Nelson Championship
-194,019,HP Byron Nelson Champ,2011,HP Byron Nelson Championship
-195,019,HP Byron Nelson Champ,2012,HP Byron Nelson Championship
-196,019,HP Byron Nelson Champ,2013,HP Byron Nelson Championship
-197,019,HP Byron Nelson Champ,2014,HP Byron Nelson Championship
-198,018,Zurich Classic of New Orl,2016,Zurich Classic of New Orleans
-199,018,Zurich Classic of New Orl,2005,Zurich Classic of New Orleans
-200,018,Zurich Classic of New Orl,2006,Zurich Classic of New Orleans
-201,018,Zurich Classic of New Orl,2007,Zurich Classic of New Orleans
-202,018,Zurich Classic of New Orl,2008,Zurich Classic of New Orleans
-203,018,Zurich Classic of New Orl,2009,Zurich Classic of New Orleans
-204,018,Zurich Classic of New Orl,2010,Zurich Classic of New Orleans
-205,018,Zurich Classic of New Orl,2011,Zurich Classic of New Orleans
-206,018,Zurich Classic of New Orl,2012,Zurich Classic of New Orleans
-207,018,Zurich Classic of New Orl,2013,Zurich Classic of New Orleans
-208,018,Zurich Classic of New Orl,2014,Zurich Classic of New Orleans
-209,018,Zurich Classic of New Orl,2015,Zurich Classic of New Orleans
-210,018,COMPAQ Classic of New Or,2000,COMPAQ Classic of New Orleans
-211,018,HP Classic of New Orleans,2003,HP Classic of New Orleans
-212,018,HP Classic of New Orleans,2004,HP Classic of New Orleans
-213,018,Compaq Classic of New Or,2001,Compaq Classic of New Orleans
-214,018,Compaq Classic of New Or,2002,Compaq Classic of New Orleans
-215,033,PGA Championship,2016,PGA Championship
-216,033,PGA Championship,2000,PGA Championship
-217,033,PGA Championship,2001,PGA Championship
-218,033,PGA Championship,2002,PGA Championship
-219,033,PGA Championship,2003,PGA Championship
-220,033,PGA Championship,2004,PGA Championship
-221,033,PGA Championship,2005,PGA Championship
-222,033,PGA Championship,2006,PGA Championship
-223,033,PGA Championship,2007,PGA Championship
-224,033,PGA Championship,2008,PGA Championship
-225,033,PGA Championship,2009,PGA Championship
-226,033,PGA Championship,2010,PGA Championship
-227,033,PGA Championship,2011,PGA Championship
-228,033,PGA Championship,2012,PGA Championship
-229,033,PGA Championship,2013,PGA Championship
-230,033,PGA Championship,2014,PGA Championship
-231,033,PGA Championship,2015,PGA Championship
-232,056,The International/Qwest,2000,The International Presented by Qwest
-233,056,The INTERNATIONAL,2003,The INTERNATIONAL
-234,056,The INTERNATIONAL,2004,The INTERNATIONAL
-235,056,The INTERNATIONAL,2005,The INTERNATIONAL
-236,056,The INTERNATIONAL,2006,The INTERNATIONAL
-237,056,The INTERNATIONAL Qwest,2001,The INTERNATIONAL Presented by Qwest
-238,056,The INTERNATIONAL Qwest,2002,The INTERNATIONAL Presented by Qwest
-239,031,Michelob Championship,2000,Michelob Championship at Kingsmill
-240,031,Michelob Championship,2001,Michelob Championship at Kingsmill
-241,031,Michelob Championship,2002,Michelob Championship at Kingsmill
-242,490,The Greenbrier Classic,2017,The Greenbrier Classic
-243,490,The Greenbrier Classic,2010,The Greenbrier Classic
-244,490,The Greenbrier Classic,2011,The Greenbrier Classic
-245,490,The Greenbrier Classic,2012,The Greenbrier Classic
-246,490,The Greenbrier Classic,2013,The Greenbrier Classic
-247,490,The Greenbrier Classic,2014,The Greenbrier Classic
-248,490,The Greenbrier Classic,2015,The Greenbrier Classic
-249,009,Arnold Palmer Invt'l,2016,Arnold Palmer Invitational presented by MasterCard
-250,009,Arnold Palmer Invt'l,2017,Arnold Palmer Invitational presented by Mastercard
-251,009,Arnold Palmer Invt'l,2007,Arnold Palmer Invitational presented by MasterCard
-252,009,Arnold Palmer Invt'l,2008,Arnold Palmer Invitational presented by MasterCard
-253,009,Arnold Palmer Invt'l,2009,Arnold Palmer Invitational presented by MasterCard
-254,009,Arnold Palmer Invt'l,2010,Arnold Palmer Invitational presented by MasterCard
-255,009,Arnold Palmer Invt'l,2011,Arnold Palmer Invitational presented by MasterCard
-256,009,Arnold Palmer Invt'l,2012,Arnold Palmer Invitational presented by MasterCard
-257,009,Arnold Palmer Invt'l,2013,Arnold Palmer Invitational presented by MasterCard
-258,009,Arnold Palmer Invt'l,2014,Arnold Palmer Invitational presented by MasterCard
-259,009,Arnold Palmer Invt'l,2015,Arnold Palmer Invitational presented by MasterCard
-260,009,Bay Hill Invitational,2000,Bay Hill Invitational
-261,009,Bay Hill Invitational,2001,Bay Hill Invitational
-262,009,Bay Hill Invitational,2002,Bay Hill Invitational presented by Cooper Tires
-263,009,Bay Hill Invitational,2003,Bay Hill Invitational presented by Cooper Tires
-264,009,Bay Hill Invitational,2004,Bay Hill Invitational Presented by MasterCard
-265,009,Bay Hill Invitational,2005,Bay Hill Invitational Presented by MasterCard
-266,009,Bay Hill Invitational,2006,Bay Hill Invitational Presented by MasterCard
-267,034,Travelers Championship,2016,Travelers Championship
-268,034,Travelers Championship,2017,Travelers Championship
-269,034,Travelers Championship,2007,Travelers Championship
-270,034,Travelers Championship,2008,Travelers Championship
-271,034,Travelers Championship,2009,Travelers Championship
-272,034,Travelers Championship,2010,Travelers Championship
-273,034,Travelers Championship,2011,Travelers Championship
-274,034,Travelers Championship,2012,Travelers Championship
-275,034,Travelers Championship,2013,Travelers Championship
-276,034,Travelers Championship,2014,Travelers Championship
-277,034,Travelers Championship,2015,Travelers Championship
-278,034,Canon Greater Hartford Op,2000,Canon Greater Hartford Open
-279,034,Canon Greater Hartford Op,2001,Canon Greater Hartford Open
-280,034,Canon Greater Hartford Op,2002,Canon Greater Hartford Open
-281,034,Greater Hartford Open,2003,Greater Hartford Open
-282,034,Buick Championship,2004,Buick Championship
-283,034,Buick Championship,2005,Buick Championship
-284,034,Buick Championship,2006,Buick Championship
-285,493,The RSM Classic,2016,The RSM Classic
-286,493,The RSM Classic,2017,The RSM Classic
-287,493,The McGladrey Classic,2010,The McGladrey Classic
-288,493,The McGladrey Classic,2011,The McGladrey Classic
-289,493,The McGladrey Classic,2012,The McGladrey Classic
-290,493,The McGladrey Classic,2013,The McGladrey Classic
-291,493,The McGladrey Classic,2014,The McGladrey Classic
-292,493,The McGladrey Classic,2015,The McGladrey Classic
-293,519,Olympic Men's Golf,2016,Olympic Men's Golf Competition
-294,518,Barbasol Championship,2016,Barbasol Championship
-295,518,Barbasol Championship,2017,Barbasol Championship
-296,518,Barbasol Championship,2015,Barbasol Championship
-297,483,Puerto Rico Open,2016,Puerto Rico Open at Coco Beach
-298,483,Puerto Rico Open,2017,Puerto Rico Open
-299,483,Puerto Rico Open,2008,Puerto Rico Open presented by Banco Popular
-300,483,Puerto Rico Open,2009,Puerto Rico Open presented by Banco Popular
-301,483,Puerto Rico Open,2010,Puerto Rico Open presented by Banco Popular
-302,483,Puerto Rico Open,2011,Puerto Rico Open presented by seepuertorico.com
-303,483,Puerto Rico Open,2012,Puerto Rico Open presented by seepuertorico.com
-304,483,Puerto Rico Open,2013,Puerto Rico Open presented by seepuertorico.com
-305,483,Puerto Rico Open,2014,Puerto Rico Open presented by seepuertorico.com
-306,483,Puerto Rico Open,2015,Puerto Rico Open
-307,051,ConAgra Foods Skins Game,2003,The ConAgra Foods Skins Game
-308,051,Skins Game,2000,Skins Game
-309,051,Skins Game,2001,Skins Game
-310,051,Skins Game,2002,Skins Game
-311,051,LG SKINS GAME,2008,LG SKINS GAME
-312,051,LG SKINS GAME,2006,LG SKINS GAME
-313,051,LG SKINS GAME,2007,LG SKINS GAME
-314,051,Merrill Lynch Skins Game,2004,Merrill Lynch Skins Game
-315,051,Merrill Lynch Skins Game,2005,Merrill Lynch Skins Game
-316,002,The 50th Bob Hope Classic,2009,The 50th Bob Hope Classic hosted by Arnold Palmer
-317,002,Humana Challenge,2012,Humana Challenge in partnership with the Clinton Foundation
-318,002,Humana Challenge,2013,Humana Challenge in partnership with the Clinton Foundation
-319,002,Humana Challenge,2014,Humana Challenge in partnership with the Clinton Foundation
-320,002,Humana Challenge,2015,Humana Challenge in partnership with the Clinton Foundation
-321,002,Bob Hope Chrysler Classic,2000,Bob Hope Chrysler Classic
-322,002,Bob Hope Chrysler Classic,2001,Bob Hope Chrysler Classic
-323,002,Bob Hope Chrysler Classic,2002,Bob Hope Chrysler Classic
-324,002,Bob Hope Chrysler Classic,2003,Bob Hope Chrysler Classic
-325,002,Bob Hope Chrysler Classic,2004,Bob Hope Chrysler Classic
-326,002,Bob Hope Chrysler Classic,2005,Bob Hope Chrysler Classic
-327,002,Bob Hope Chrysler Classic,2006,Bob Hope Chrysler Classic
-328,002,Bob Hope Chrysler Classic,2007,Bob Hope Chrysler Classic
-329,002,Bob Hope Chrysler Classic,2008,Bob Hope Chrysler Classic
-330,002,Bob Hope Classic,2010,Bob Hope Classic
-331,002,Bob Hope Classic,2011,Bob Hope Classic
-332,002,CareerBuilder Challenge,2016,CareerBuilder Challenge in partnership with the Clinton Foundation
-333,002,CareerBuilder Challenge,2017,CareerBuilder Challenge
-334,037,B.C. Open,2000,B.C. Open
-335,037,B.C. Open,2001,B.C. Open
-336,037,B.C. Open,2002,B.C. Open
-337,037,B.C. Open,2003,B.C. Open
-338,037,B.C. Open,2004,B.C. Open
-339,037,B.C. Open,2005,B.C. Open
-340,037,B.C. Open,2006,B.C. Open presented by Turning Stone Resort
-341,032,Bell Canadian Open,2000,Bell Canadian Open
-342,032,Bell Canadian Open,2001,Bell Canadian Open
-343,032,Bell Canadian Open,2002,Bell Canadian Open
-344,032,Bell Canadian Open,2003,Bell Canadian Open
-345,032,Bell Canadian Open,2004,Bell Canadian Open
-346,032,Bell Canadian Open,2005,Bell Canadian Open
-347,032,Canadian Open,2006,Canadian Open
-348,032,Canadian Open,2007,Canadian Open presented by Franklin Templeton Investments
-349,032,RBC Canadian Open,2016,RBC Canadian Open
-350,032,RBC Canadian Open,2008,RBC Canadian Open
-351,032,RBC Canadian Open,2009,RBC Canadian Open
-352,032,RBC Canadian Open,2010,RBC Canadian Open
-353,032,RBC Canadian Open,2011,RBC Canadian Open
-354,032,RBC Canadian Open,2012,RBC Canadian Open
-355,032,RBC Canadian Open,2013,RBC Canadian Open
-356,032,RBC Canadian Open,2014,RBC Canadian Open
-357,032,RBC Canadian Open,2015,RBC Canadian Open
-358,505,Dell Technologies Champ,2017,Dell Technologies Championship
-359,505,Deutsche Bank Champ,2016,Deutsche Bank Championship
-360,505,Deutsche Bank Champ,2003,Deutsche Bank Championship
-361,505,Deutsche Bank Champ,2004,Deutsche Bank Championship
-362,505,Deutsche Bank Champ,2005,Deutsche Bank Championship
-363,505,Deutsche Bank Champ,2006,Deutsche Bank Championship
-364,505,Deutsche Bank Champ,2007,Deutsche Bank Championship
-365,505,Deutsche Bank Champ,2008,Deutsche Bank Championship
-366,505,Deutsche Bank Champ,2009,Deutsche Bank Championship
-367,505,Deutsche Bank Champ,2010,Deutsche Bank Championship
-368,505,Deutsche Bank Champ,2011,Deutsche Bank Championship
-369,505,Deutsche Bank Champ,2012,Deutsche Bank Championship
-370,505,Deutsche Bank Champ,2013,Deutsche Bank Championship
-371,505,Deutsche Bank Champ,2014,Deutsche Bank Championship
-372,505,Deutsche Bank Champ,2015,Deutsche Bank Championship
-373,060,TOUR Championship,2016,TOUR Championship
-374,060,TOUR Championship,2011,TOUR Championship by Coca-Cola
-375,060,TOUR Championship,2012,TOUR Championship by Coca-Cola
-376,060,TOUR Championship,2013,TOUR Championship by Coca-Cola
-377,060,TOUR Championship,2014,TOUR Championship by Coca-Cola
-378,060,TOUR Championship,2015,TOUR Championship by Coca-Cola
-379,060,THE TOUR Championship,2000,THE TOUR Championship
-380,060,THE TOUR Championship,2001,THE TOUR Championship
-381,060,THE TOUR Championship,2002,THE TOUR Championship presented by Coca-Cola
-382,060,THE TOUR Championship,2003,THE TOUR Championship presented by Coca-Cola
-383,060,THE TOUR Championship,2004,THE TOUR Championship presented by Coca-Cola
-384,060,THE TOUR Championship,2005,THE TOUR Championship presented by Coca-Cola
-385,060,THE TOUR Championship,2006,THE TOUR Championship presented by Coca-Cola
-386,060,THE TOUR Championship,2007,THE TOUR Championship presented by Coca-Cola
-387,060,THE TOUR Championship,2008,THE TOUR Championship presented by Coca-Cola
-388,060,THE TOUR Championship,2009,THE TOUR Championship presented by Coca-Cola
-389,060,THE TOUR Championship,2010,THE TOUR Championship presented by Coca-Cola
-390,088,PGA TOUR Qualifying Tourn,2000,PGA TOUR Qualifying Tournament
-391,088,PGA TOUR Qualifying Tourn,2001,PGA TOUR Qualifying Tournament
-392,088,PGA TOUR Qualifying Tourn,2002,PGA TOUR Qualifying Tournament
-393,088,PGA TOUR Qualifying Tourn,2003,PGA TOUR Qualifying Tournament
-394,088,PGA TOUR Qualifying Tourn,2004,PGA TOUR Qualifying Tournament
-395,088,PGA TOUR Qualifying Tourn,2005,PGA TOUR Qualifying Tournament
-396,088,PGA TOUR Qualifying Tourn,2006,PGA TOUR Qualifying Tournament
-397,088,PGA TOUR Qualifying Tourn,2007,PGA TOUR Qualifying Tournament
-398,088,PGA TOUR Qualifying Tourn,2008,PGA TOUR Qualifying Tournament
-399,088,PGA TOUR Qualifying Tourn,2009,PGA TOUR Qualifying Tournament
-400,088,PGA TOUR Qualifying Tourn,2010,PGA TOUR Qualifying Tournament
-401,088,PGA TOUR Qualifying Tourn,2011,PGA TOUR Qualifying Tournament
-402,088,PGA TOUR Qualifying Tourn,2012,PGA TOUR Qualifying Tournament
-403,468,Ryder Cup,2001,Ryder Cup
-404,468,Ryder Cup,2002,Ryder Cup
-405,468,Ryder Cup,2004,Ryder Cup
-406,468,Ryder Cup,2006,Ryder Cup
-407,468,Ryder Cup,2008,Ryder Cup
-408,468,Ryder Cup,2010,Ryder Cup
-409,468,Ryder Cup,2012,Ryder Cup
-410,468,Ryder Cup,2014,Ryder Cup
-411,005,AT&T; Pebble Beach,2016,AT&T; Pebble Beach Pro-Am
-412,005,AT&T; Pebble Beach,2017,AT&T; Pebble Beach Pro-Am
-413,005,AT&T; Pebble Beach,2000,AT&T; Pebble Beach National Pro-Am
-414,005,AT&T; Pebble Beach,2001,AT&T; Pebble Beach National Pro-Am
-415,005,AT&T; Pebble Beach,2002,AT&T; Pebble Beach National Pro-Am
-416,005,AT&T; Pebble Beach,2003,AT&T; Pebble Beach National Pro-Am
-417,005,AT&T; Pebble Beach,2004,AT&T; Pebble Beach National Pro-Am
-418,005,AT&T; Pebble Beach,2005,AT&T; Pebble Beach National Pro-Am
-419,005,AT&T; Pebble Beach,2006,AT&T; Pebble Beach National Pro-Am
-420,005,AT&T; Pebble Beach,2007,AT&T; Pebble Beach National Pro-Am
-421,005,AT&T; Pebble Beach,2008,AT&T; Pebble Beach National Pro-Am
-422,005,AT&T; Pebble Beach,2009,AT&T; Pebble Beach National Pro-Am
-423,005,AT&T; Pebble Beach,2010,AT&T; Pebble Beach National Pro-Am
-424,005,AT&T; Pebble Beach,2011,AT&T; Pebble Beach National Pro-Am
-425,005,AT&T; Pebble Beach,2012,AT&T; Pebble Beach National Pro-Am
-426,005,AT&T; Pebble Beach,2013,AT&T; Pebble Beach National Pro-Am
-427,005,AT&T; Pebble Beach,2014,AT&T; Pebble Beach National Pro-Am
-428,005,AT&T; Pebble Beach,2015,AT&T; Pebble Beach National Pro-Am
-429,464,Safeway Open,2017,Safeway Open
-430,464,Frys.com Open,2016,Frys.com Open
-431,464,Frys.com Open,2008,Frys.com Open
-432,464,Frys.com Open,2009,Frys.com Open
-433,464,Frys.com Open,2010,Frys.com Open
-434,464,Frys.com Open,2011,Frys.com Open
-435,464,Frys.com Open,2012,Frys.com Open
-436,464,Frys.com Open,2013,Frys.com Open
-437,464,Frys.com Open,2014,Frys.com Open
-438,464,Frys.com Open,2015,Frys.com Open
-439,464,Fry's Electronics Open,2007,Fry's Electronics Open
-440,007,Genesis Open,2017,Genesis Open
-441,007,Nissan Open,2000,Nissan Open
-442,007,Nissan Open,2001,Nissan Open
-443,007,Nissan Open,2002,Nissan Open
-444,007,Nissan Open,2003,Nissan Open
-445,007,Nissan Open,2004,Nissan Open
-446,007,Nissan Open,2005,Nissan Open
-447,007,Nissan Open,2006,Nissan Open
-448,007,Nissan Open,2007,Nissan Open
-449,007,Northern Trust Open,2016,Northern Trust Open
-450,007,Northern Trust Open,2008,Northern Trust Open
-451,007,Northern Trust Open,2009,Northern Trust Open
-452,007,Northern Trust Open,2010,Northern Trust Open
-453,007,Northern Trust Open,2011,Northern Trust Open
-454,007,Northern Trust Open,2012,Northern Trust Open
-455,007,Northern Trust Open,2013,Northern Trust Open
-456,007,Northern Trust Open,2014,Northern Trust Open
-457,007,Northern Trust Open,2015,Northern Trust Open
-458,025,St. Jude Classic,2009,St. Jude Classic presented by FedEx
-459,025,St. Jude Classic,2010,St. Jude Classic presented by Smith & Nephew
-460,025,FedEx St. Jude Classic,2016,FedEx St. Jude Classic
-461,025,FedEx St. Jude Classic,2017,FedEx St. Jude Classic
-462,025,FedEx St. Jude Classic,2000,FedEx St. Jude Classic
-463,025,FedEx St. Jude Classic,2001,FedEx St. Jude Classic
-464,025,FedEx St. Jude Classic,2002,FedEx St. Jude Classic
-465,025,FedEx St. Jude Classic,2003,FedEx St. Jude Classic
-466,025,FedEx St. Jude Classic,2004,FedEx St. Jude Classic
-467,025,FedEx St. Jude Classic,2005,FedEx St. Jude Classic
-468,025,FedEx St. Jude Classic,2006,FedEx St. Jude Classic
-469,025,FedEx St. Jude Classic,2011,FedEx St. Jude Classic
-470,025,FedEx St. Jude Classic,2012,FedEx St. Jude Classic
-471,025,FedEx St. Jude Classic,2013,FedEx St. Jude Classic
-472,025,FedEx St. Jude Classic,2014,FedEx St. Jude Classic
-473,025,FedEx St. Jude Classic,2015,FedEx St. Jude Classic
-474,025,Stanford St. Jude Champ,2008,Stanford St. Jude Championship
-475,025,Stanford St. Jude Champ,2007,Stanford St. Jude Championship
-476,024,FBR Capital Open,2003,FBR Capital Open
-477,024,Booz Allen Classic,2004,Booz Allen Classic
-478,024,Booz Allen Classic,2005,Booz Allen Classic
-479,024,Booz Allen Classic,2006,Booz Allen Classic
-480,024,Kemper Insurance Open,2000,Kemper Insurance Open
-481,024,Kemper Insurance Open,2001,Kemper Insurance Open
-482,024,Kemper Insurance Open,2002,Kemper Insurance Open
-483,001,Chrysler Classic Tucson,2003,Chrysler Classic of Tucson
-484,001,Chrysler Classic Tucson,2004,Chrysler Classic of Tucson
-485,001,Chrysler Classic Tucson,2005,Chrysler Classic of Tucson
-486,001,Chrysler Classic Tucson,2006,Chrysler Classic of Tucson
-487,001,Touchstone Energy Tucson,2000,Touchstone Energy Tucson Open
-488,001,Touchstone Energy Tucson,2001,Touchstone Energy Tucson Open
-489,001,Touchstone Energy Tucson,2002,Touchstone Energy Tucson Open
-490,026,U.S. Open Championship,2000,U.S. Open Championship
-491,026,U.S. Open Championship,2001,U.S. Open Championship
-492,026,U.S. Open Championship,2002,U.S. Open Championship
-493,026,U.S. Open Championship,2003,U.S. Open Championship
-494,026,U.S. Open Championship,2004,U.S. Open Championship
-495,026,U.S. Open Championship,2005,U.S. Open Championship
-496,026,U.S. Open Championship,2006,U.S. Open Championship
-497,026,U.S. Open Championship,2007,U.S. Open Championship
-498,026,U.S. Open Championship,2008,U.S. Open Championship
-499,026,U.S. Open Championship,2009,U.S. Open Championship
-500,026,U.S. Open Championship,2010,U.S. Open Championship
-501,026,U.S. Open,2016,U.S. Open
-502,026,U.S. Open,2017,U.S. Open
-503,026,U.S. Open,2011,U.S. Open
-504,026,U.S. Open,2012,U.S. Open
-505,026,U.S. Open,2013,U.S. Open
-506,026,U.S. Open,2014,U.S. Open
-507,026,U.S. Open,2015,U.S. Open
-508,021,DEAN & DELUCA Invt'l,2016,DEAN & DELUCA Invitational
-509,021,DEAN & DELUCA Invt'l,2017,DEAN & DELUCA Invitational
-510,021,MasterCard Colonial,2000,MasterCard Colonial
-511,021,MasterCard Colonial,2001,MasterCard Colonial
-512,021,MasterCard Colonial,2002,MasterCard Colonial
-513,021,Bank of America Colonial,2003,Bank of America Colonial
-514,021,Bank of America Colonial,2004,Bank of America Colonial
-515,021,Bank of America Colonial,2005,Bank of America Colonial
-516,021,Bank of America Colonial,2006,Bank of America Colonial
-517,021,Crowne Plaza Invitational,2007,Crowne Plaza Invitational at Colonial
-518,021,Crowne Plaza Invitational,2008,Crowne Plaza Invitational at Colonial
-519,021,Crowne Plaza Invitational,2009,Crowne Plaza Invitational at Colonial
-520,021,Crowne Plaza Invitational,2010,Crowne Plaza Invitational at Colonial
-521,021,Crowne Plaza Invitational,2011,Crowne Plaza Invitational at Colonial
-522,021,Crowne Plaza Invitational,2012,Crowne Plaza Invitational at Colonial
-523,021,Crowne Plaza Invitational,2013,Crowne Plaza Invitational at Colonial
-524,021,Crowne Plaza Invitational,2014,Crowne Plaza Invitational at Colonial
-525,021,Crowne Plaza Invitational,2015,Crowne Plaza Invitational at Colonial
-526,020,Shell Houston Open,2016,Shell Houston Open
-527,020,Shell Houston Open,2017,Shell Houston Open
-528,020,Shell Houston Open,2000,Shell Houston Open
-529,020,Shell Houston Open,2001,Shell Houston Open
-530,020,Shell Houston Open,2002,Shell Houston Open
-531,020,Shell Houston Open,2003,Shell Houston Open
-532,020,Shell Houston Open,2004,Shell Houston Open
-533,020,Shell Houston Open,2005,Shell Houston Open
-534,020,Shell Houston Open,2006,Shell Houston Open
-535,020,Shell Houston Open,2007,Shell Houston Open
-536,020,Shell Houston Open,2008,Shell Houston Open
-537,020,Shell Houston Open,2009,Shell Houston Open
-538,020,Shell Houston Open,2010,Shell Houston Open
-539,020,Shell Houston Open,2011,Shell Houston Open
-540,020,Shell Houston Open,2012,Shell Houston Open
-541,020,Shell Houston Open,2013,Shell Houston Open
-542,020,Shell Houston Open,2014,Shell Houston Open
-543,020,Shell Houston Open,2015,Shell Houston Open
-544,489,WGC-HSBC Champions,2016,World Golf Championships-HSBC Champions
-545,489,WGC-HSBC Champions,2017,World Golf Championships-HSBC Champions
-546,489,WGC-HSBC Champions,2009,World Golf Championships-HSBC Champions
-547,489,WGC-HSBC Champions,2010,World Golf Championships-HSBC Champions
-548,489,WGC-HSBC Champions,2011,World Golf Championships-HSBC Champions
-549,489,WGC-HSBC Champions,2012,World Golf Championships-HSBC Champions
-550,489,WGC-HSBC Champions,2013,World Golf Championships-HSBC Champions
-551,489,WGC-HSBC Champions,2014,World Golf Championships-HSBC Champions
-552,489,WGC-HSBC Champions,2015,World Golf Championships-HSBC Champions
-553,022,AT&T; Classic,2008,AT&T; Classic
-554,022,AT&T; Classic,2007,AT&T; Classic
-555,022,BellSouth Classic,2000,BellSouth Classic
-556,022,BellSouth Classic,2001,BellSouth Classic
-557,022,BellSouth Classic,2002,BellSouth Classic
-558,022,BellSouth Classic,2003,BellSouth Classic
-559,022,BellSouth Classic,2004,BellSouth Classic
-560,022,BellSouth Classic,2005,BellSouth Classic
-561,022,BellSouth Classic,2006,BellSouth Classic
-562,047,Frys.com Open,2006,Frys.com Open
-563,047,Frys.com Open,2007,Frys.com Open benefiting Shriners Hospitals for Children
-564,047,Shriners Hospitals,2016,Shriners Hospitals for Children Open
-565,047,Shriners Hospitals,2017,Shriners Hospitals for Children Open
-566,047,Shriners Hospitals,2013,Shriners Hospitals for Children Open
-567,047,Shriners Hospitals,2014,Shriners Hospitals for Children Open
-568,047,Shriners Hospitals,2015,Shriners Hospitals for Children Open
-569,047,Invensys Clssic Las Vegas,2001,Invensys Classic at Las Vegas
-570,047,Invensys Clssic Las Vegas,2002,Invensys Classic at Las Vegas
-571,047,Las Vegas Invitational,2003,Las Vegas Invitational
-572,047,Invensys Clssic/Las Vegas,2000,Invensys Classic at Las Vegas
-573,047,JT Shriners,2012,Justin Timberlake Shriners Hospitals for Children Open
-574,047,Michelin Championship,2004,Michelin Championship at Las Vegas
-575,047,Michelin Championship,2005,Michelin Championship at Las Vegas
-576,047,Justin Timberlake,2008,Justin Timberlake Shriners Hospitals for Children Open
-577,047,Justin Timberlake,2009,Justin Timberlake Shriners Hospitals for Children Open
-578,047,Justin Timberlake,2010,Justin Timberlake Shriners Hospitals for Children Open
-579,047,Justin Timberlake,2011,Justin Timberlake Shriners Hospitals for Children Open
-580,100,The Open Championship,2016,The Open Championship
-581,100,The Open Championship,2000,The Open Championship
-582,100,The Open Championship,2001,The Open Championship
-583,100,The Open Championship,2002,The Open Championship
-584,100,The Open Championship,2003,The Open Championship
-585,100,The Open Championship,2004,The Open Championship
-586,100,The Open Championship,2005,The Open Championship
-587,100,The Open Championship,2006,The Open Championship
-588,100,The Open Championship,2007,The Open Championship
-589,100,The Open Championship,2008,The Open Championship
-590,100,The Open Championship,2009,The Open Championship
-591,100,The Open Championship,2010,The Open Championship
-592,100,The Open Championship,2011,The Open Championship
-593,100,The Open Championship,2012,The Open Championship
-594,100,The Open Championship,2013,The Open Championship
-595,100,The Open Championship,2014,The Open Championship
-596,100,The Open Championship,2015,The Open Championship
-597,008,Ford Championship @ Doral,2003,Ford Championship at Doral
-598,008,Ford Championship @ Doral,2004,Ford Championship at Doral
-599,008,Ford Championship @ Doral,2005,Ford Championship at Doral
-600,008,Ford Championship @ Doral,2006,Ford Championship at Doral
-601,008,Genuity Championship,2001,Genuity Championship
-602,008,Genuity Championship,2002,Genuity Championship
-603,008,Doral-Ryder Open,2000,Doral-Ryder Open
-604,029,Greater Milwaukee Open,2000,Greater Milwaukee Open
-605,029,Greater Milwaukee Open,2001,Greater Milwaukee Open
-606,029,Greater Milwaukee Open,2002,Greater Milwaukee Open
-607,029,Greater Milwaukee Open,2003,Greater Milwaukee Open
-608,029,U.S. Bank in Milwaukee,2004,U.S. Bank Championship in Milwaukee
-609,029,U.S. Bank in Milwaukee,2005,U.S. Bank Championship in Milwaukee
-610,029,U.S. Bank in Milwaukee,2006,U.S. Bank Championship in Milwaukee
-611,029,U.S. Bank in Milwaukee,2007,U.S. Bank Championship in Milwaukee
-612,029,U.S. Bank in Milwaukee,2008,U.S. Bank Championship in Milwaukee
-613,029,U.S. Bank in Milwaukee,2009,U.S. Bank Championship in Milwaukee
-614,028,Advil Western Open,2000,Advil Western Open
-615,028,Advil Western Open,2001,Advil Western Open
-616,028,Advil Western Open,2002,Advil Western Open
-617,028,BMW Championship,2016,BMW Championship
-618,028,BMW Championship,2007,BMW Championship
-619,028,BMW Championship,2008,BMW Championship
-620,028,BMW Championship,2009,BMW Championship
-621,028,BMW Championship,2010,BMW Championship
-622,028,BMW Championship,2011,BMW Championship
-623,028,BMW Championship,2012,BMW Championship
-624,028,BMW Championship,2013,BMW Championship
-625,028,BMW Championship,2014,BMW Championship
-626,028,BMW Championship,2015,BMW Championship
-627,028,100th Western Open,2003,100th Western Open presented by Golf Digest
-628,028,Cialis Western Open,2004,Cialis Western Open
-629,028,Cialis Western Open,2005,Cialis Western Open
-630,028,Cialis Western Open,2006,Cialis Western Open
-631,041,Westin Texas Open,2000,Westin Texas Open at LaCantera
-632,041,Valero Texas Open,2016,Valero Texas Open
-633,041,Valero Texas Open,2002,Valero Texas Open
-634,041,Valero Texas Open,2003,Valero Texas Open
-635,041,Valero Texas Open,2004,Valero Texas Open
-636,041,Valero Texas Open,2005,Valero Texas Open
-637,041,Valero Texas Open,2006,Valero Texas Open
-638,041,Valero Texas Open,2007,Valero Texas Open
-639,041,Valero Texas Open,2008,Valero Texas Open
-640,041,Valero Texas Open,2009,Valero Texas Open
-641,041,Valero Texas Open,2010,Valero Texas Open
-642,041,Valero Texas Open,2011,Valero Texas Open
-643,041,Valero Texas Open,2012,Valero Texas Open
-644,041,Valero Texas Open,2013,Valero Texas Open
-645,041,Valero Texas Open,2014,Valero Texas Open
-646,041,Valero Texas Open,2015,Valero Texas Open
-647,041,Texas Open at LaCantera,2001,Texas Open at LaCantera
-648,480,Wachovia Championship,2003,Wachovia Championship
-649,480,Wachovia Championship,2004,Wachovia Championship
-650,480,Wachovia Championship,2005,Wachovia Championship
-651,480,Wachovia Championship,2006,Wachovia Championship
-652,480,Wachovia Championship,2007,Wachovia Championship
-653,480,Wachovia Championship,2008,Wachovia Championship
-654,480,Wells Fargo Championship,2016,Wells Fargo Championship
-655,480,Wells Fargo Championship,2011,Wells Fargo Championship
-656,480,Wells Fargo Championship,2012,Wells Fargo Championship
-657,480,Wells Fargo Championship,2013,Wells Fargo Championship
-658,480,Wells Fargo Championship,2014,Wells Fargo Championship
-659,480,Wells Fargo Championship,2015,Wells Fargo Championship
-660,480,Quail Hollow Championship,2009,Quail Hollow Championship
-661,480,Quail Hollow Championship,2010,Quail Hollow Championship
-662,003,Phoenix Open,2000,Phoenix Open
-663,003,Phoenix Open,2001,Phoenix Open
-664,003,Phoenix Open,2002,Phoenix Open
-665,003,Phoenix Open,2003,Phoenix Open
-666,003,FBR Open,2004,FBR Open
-667,003,FBR Open,2005,FBR Open
-668,003,FBR Open,2006,FBR Open
-669,003,FBR Open,2007,FBR Open
-670,003,FBR Open,2008,FBR Open
-671,003,FBR Open,2009,FBR Open
-672,003,Waste Management Phoenix,2016,Waste Management Phoenix Open
-673,003,Waste Management Phoenix,2017,Waste Management Phoenix Open
-674,003,Waste Management Phoenix,2010,Waste Management Phoenix Open
-675,003,Waste Management Phoenix,2011,Waste Management Phoenix Open
-676,003,Waste Management Phoenix,2012,Waste Management Phoenix Open
-677,003,Waste Management Phoenix,2013,Waste Management Phoenix Open
-678,003,Waste Management Phoenix,2014,Waste Management Phoenix Open
-679,003,Waste Management Phoenix,2015,Waste Management Phoenix Open
-680,494,CIMB Asia Pacific Classic,2010,CIMB Asia Pacific Classic Malaysia
-681,494,CIMB Asia Pacific Classic,2011,CIMB Asia Pacific Classic Malaysia
-682,494,CIMB Classic,2016,CIMB Classic
-683,494,CIMB Classic,2017,CIMB Classic
-684,494,CIMB Classic,2012,CIMB Classic
-685,494,CIMB Classic,2013,CIMB Classic
-686,494,CIMB Classic,2014,CIMB Classic
-687,494,CIMB Classic,2015,CIMB Classic
-688,011,THE PLAYERS Championship,2016,THE PLAYERS Championship
-689,011,THE PLAYERS Championship,2017,THE PLAYERS Championship
-690,011,THE PLAYERS Championship,2000,THE PLAYERS Championship
-691,011,THE PLAYERS Championship,2001,THE PLAYERS Championship
-692,011,THE PLAYERS Championship,2002,THE PLAYERS Championship
-693,011,THE PLAYERS Championship,2003,THE PLAYERS Championship
-694,011,THE PLAYERS Championship,2004,THE PLAYERS Championship
-695,011,THE PLAYERS Championship,2005,THE PLAYERS Championship
-696,011,THE PLAYERS Championship,2006,THE PLAYERS Championship
-697,011,THE PLAYERS Championship,2007,THE PLAYERS Championship
-698,011,THE PLAYERS Championship,2008,THE PLAYERS Championship
-699,011,THE PLAYERS Championship,2009,THE PLAYERS Championship
-700,011,THE PLAYERS Championship,2010,THE PLAYERS Championship
-701,011,THE PLAYERS Championship,2011,THE PLAYERS Championship
-702,011,THE PLAYERS Championship,2012,THE PLAYERS Championship
-703,011,THE PLAYERS Championship,2013,THE PLAYERS Championship
-704,011,THE PLAYERS Championship,2014,THE PLAYERS Championship
-705,011,THE PLAYERS Championship,2015,THE PLAYERS Championship
-706,027,THE NORTHERN TRUST,2017,THE NORTHERN TRUST
-707,027,Barclays Classic,2005,Barclays Classic
-708,027,Barclays Classic,2006,Barclays Classic
-709,027,The Barclays,2016,The Barclays
-710,027,The Barclays,2007,The Barclays
-711,027,The Barclays,2008,The Barclays
-712,027,The Barclays,2009,The Barclays
-713,027,The Barclays,2010,The Barclays
-714,027,The Barclays,2011,The Barclays
-715,027,The Barclays,2012,The Barclays
-716,027,The Barclays,2013,The Barclays
-717,027,The Barclays,2014,The Barclays
-718,027,The Barclays,2015,The Barclays
-719,027,Buick Classic,2000,Buick Classic
-720,027,Buick Classic,2001,Buick Classic
-721,027,Buick Classic,2002,Buick Classic
-722,027,Buick Classic,2003,Buick Classic
-723,027,Buick Classic,2004,Buick Classic
-724,472,Barracuda Championship,2016,Barracuda Championship
-725,472,Barracuda Championship,2014,Barracuda Championship
-726,472,Barracuda Championship,2015,Barracuda Championship
-727,472,Legends Reno-Tahoe Open,2008,Legends Reno-Tahoe Open
-728,472,Legends Reno-Tahoe Open,2009,Legends Reno-Tahoe Open
-729,472,Reno-Tahoe Open,2000,Reno-Tahoe Open
-730,472,Reno-Tahoe Open,2001,Reno-Tahoe Open
-731,472,Reno-Tahoe Open,2002,Reno-Tahoe Open
-732,472,Reno-Tahoe Open,2003,Reno-Tahoe Open
-733,472,Reno-Tahoe Open,2004,Reno-Tahoe Open
-734,472,Reno-Tahoe Open,2005,Reno-Tahoe Open
-735,472,Reno-Tahoe Open,2006,Reno-Tahoe Open
-736,472,Reno-Tahoe Open,2007,Reno-Tahoe Open
-737,472,Reno-Tahoe Open,2010,Reno-Tahoe Open
-738,472,Reno-Tahoe Open,2011,Reno-Tahoe Open
-739,472,Reno-Tahoe Open,2012,Reno-Tahoe Open
-740,472,Reno-Tahoe Open,2013,Reno-Tahoe Open
-741,473,WGC-American Express,2000,World Golf Championships-American Express Championship
-742,473,WGC-American Express,2001,World Golf Championships-American Express Championship
-743,473,WGC-American Express,2002,World Golf Championships-American Express Championship
-744,473,WGC-American Express,2003,World Golf Championships-American Express Championship
-745,473,WGC-American Express,2004,World Golf Championships-American Express Championship
-746,473,WGC-American Express,2005,World Golf Championships-American Express Championship
-747,473,WGC-American Express,2006,World Golf Championships-American Express Championship
-748,473,WGC-CA Championship,2008,World Golf Championships-CA Championship
-749,473,WGC-CA Championship,2009,World Golf Championships-CA Championship
-750,473,WGC-CA Championship,2010,World Golf Championships-CA Championship
-751,473,WGC-CA Championship,2007,World Golf Championships-CA Championship
-752,473,WGC-Cadillac Championship,2016,World Golf Championships-Cadillac Championship
-753,473,WGC-Cadillac Championship,2011,World Golf Championships-Cadillac Championship
-754,473,WGC-Cadillac Championship,2012,World Golf Championships-Cadillac Championship
-755,473,WGC-Cadillac Championship,2013,World Golf Championships-Cadillac Championship
-756,473,WGC-Cadillac Championship,2014,World Golf Championships-Cadillac Championship
-757,473,WGC-Cadillac Championship,2015,World Golf Championships-Cadillac Championship
-758,470,WGC-Dell Tech Match Play,2017,World Golf Championships-Dell Technologies Match Play
-759,470,WGC-Dell Match Play,2016,World Golf Championships-Dell Match Play
-760,470,WGC-Accenture Match Play,2000,World Golf Championships-Accenture Match Play Championship
-761,470,WGC-Accenture Match Play,2001,World Golf Championships-Accenture Match Play Championship
-762,470,WGC-Accenture Match Play,2002,World Golf Championships-Accenture Match Play Championship
-763,470,WGC-Accenture Match Play,2003,World Golf Championships-Accenture Match Play Championship
-764,470,WGC-Accenture Match Play,2004,World Golf Championships-Accenture Match Play Championship
-765,470,WGC-Accenture Match Play,2005,World Golf Championships-Accenture Match Play Championship
-766,470,WGC-Accenture Match Play,2006,World Golf Championships-Accenture Match Play Championship
-767,470,WGC-Accenture Match Play,2007,World Golf Championships-Accenture Match Play Championship
-768,470,WGC-Accenture Match Play,2008,World Golf Championships-Accenture Match Play Championship
-769,470,WGC-Accenture Match Play,2009,World Golf Championships-Accenture Match Play Championship
-770,470,WGC-Accenture Match Play,2010,World Golf Championships-Accenture Match Play Championship
-771,470,WGC-Accenture Match Play,2011,World Golf Championships-Accenture Match Play Championship
-772,470,WGC-Accenture Match Play,2012,World Golf Championships-Accenture Match Play Championship
-773,470,WGC-Accenture Match Play,2013,World Golf Championships-Accenture Match Play Championship
-774,470,WGC-Accenture Match Play,2014,World Golf Championships-Accenture Match Play Championship
-775,470,WGC-Cadillac Match Play,2015,World Golf Championships-Cadillac Match Play
-776,471,AT&T; National,2007,AT&T; National
-777,471,AT&T; National,2008,AT&T; National
-778,471,AT&T; National,2009,AT&T; National
-779,471,AT&T; National,2010,AT&T; National
-780,471,AT&T; National,2011,AT&T; National
-781,471,AT&T; National,2012,AT&T; National
-782,471,AT&T; National,2013,AT&T; National
-783,471,Quicken Loans National,2016,Quicken Loans National
-784,471,Quicken Loans National,2017,Quicken Loans National
-785,471,Quicken Loans National,2014,Quicken Loans National
-786,471,Quicken Loans National,2015,Quicken Loans National
-787,476,WGC-Bridgestone Invit'l,2016,World Golf Championships-Bridgestone Invitational
-788,476,WGC-Bridgestone Invit'l,2006,World Golf Championships-Bridgestone Invitational
-789,476,WGC-Bridgestone Invit'l,2007,World Golf Championships-Bridgestone Invitational
-790,476,WGC-Bridgestone Invit'l,2008,World Golf Championships-Bridgestone Invitational
-791,476,WGC-Bridgestone Invit'l,2009,World Golf Championships-Bridgestone Invitational
-792,476,WGC-Bridgestone Invit'l,2010,World Golf Championships-Bridgestone Invitational
-793,476,WGC-Bridgestone Invit'l,2011,World Golf Championships-Bridgestone Invitational
-794,476,WGC-Bridgestone Invit'l,2012,World Golf Championships-Bridgestone Invitational
-795,476,WGC-Bridgestone Invit'l,2013,World Golf Championships-Bridgestone Invitational
-796,476,WGC-Bridgestone Invit'l,2014,World Golf Championships-Bridgestone Invitational
-797,476,WGC-Bridgestone Invit'l,2015,World Golf Championships-Bridgestone Invitational
-798,476,WGC-NEC Invitational,2000,World Golf Championships-NEC Invitational
-799,476,WGC-NEC Invitational,2001,World Golf Championships-NEC Invitational
-800,476,WGC-NEC Invitational,2002,World Golf Championships-NEC Invitational
-801,476,WGC-NEC Invitational,2003,World Golf Championships-NEC Invitational
-802,476,WGC-NEC Invitational,2004,World Golf Championships-NEC Invitational
-803,476,WGC-NEC Invitational,2005,World Golf Championships-NEC Invitational
-804,030,John Deere Classic,2016,John Deere Classic
-805,030,John Deere Classic,2017,John Deere Classic
-806,030,John Deere Classic,2000,John Deere Classic
-807,030,John Deere Classic,2001,John Deere Classic
-808,030,John Deere Classic,2002,John Deere Classic
-809,030,John Deere Classic,2003,John Deere Classic
-810,030,John Deere Classic,2004,John Deere Classic
-811,030,John Deere Classic,2005,John Deere Classic
-812,030,John Deere Classic,2006,John Deere Classic
-813,030,John Deere Classic,2007,John Deere Classic
-814,030,John Deere Classic,2008,John Deere Classic
-815,030,John Deere Classic,2009,John Deere Classic
-816,030,John Deere Classic,2010,John Deere Classic
-817,030,John Deere Classic,2011,John Deere Classic
-818,030,John Deere Classic,2012,John Deere Classic
-819,030,John Deere Classic,2013,John Deere Classic
-820,030,John Deere Classic,2014,John Deere Classic
-821,030,John Deere Classic,2015,John Deere Classic
-822,475,Transitions Championship,2009,Transitions Championship
-823,475,Transitions Championship,2010,Transitions Championship
-824,475,Transitions Championship,2011,Transitions Championship
-825,475,Transitions Championship,2012,Transitions Championship
-826,475,Chrysler Championship,2003,Chrysler Championship
-827,475,Chrysler Championship,2004,Chrysler Championship
-828,475,Chrysler Championship,2005,Chrysler Championship
-829,475,Chrysler Championship,2006,Chrysler Championship
-830,475,Tampa Bay Classic,2000,Tampa Bay Classic
-831,475,Tampa Bay Classic,2001,Tampa Bay Classic presented by Buick
-832,475,Tampa Bay Classic,2002,Tampa Bay Classic presented by Buick
-833,475,PODS Championship,2008,PODS Championship
-834,475,PODS Championship,2007,PODS Championship
-835,475,Valspar Championship,2016,Valspar Championship
-836,475,Valspar Championship,2014,Valspar Championship
-837,475,Valspar Championship,2015,Valspar Championship
-838,475,Tampa Bay Championship,2013,Tampa Bay Championship presented by EverBank
-839,014,Masters Tournament,2016,Masters Tournament
-840,014,Masters Tournament,2000,Masters Tournament
-841,014,Masters Tournament,2001,Masters Tournament
-842,014,Masters Tournament,2002,Masters Tournament
-843,014,Masters Tournament,2003,Masters Tournament
-844,014,Masters Tournament,2004,Masters Tournament
-845,014,Masters Tournament,2005,Masters Tournament
-846,014,Masters Tournament,2006,Masters Tournament
-847,014,Masters Tournament,2007,Masters Tournament
-848,014,Masters Tournament,2008,Masters Tournament
-849,014,Masters Tournament,2009,Masters Tournament
-850,014,Masters Tournament,2010,Masters Tournament
-851,014,Masters Tournament,2011,Masters Tournament
-852,014,Masters Tournament,2012,Masters Tournament
-853,014,Masters Tournament,2013,Masters Tournament
-854,014,Masters Tournament,2014,Masters Tournament
-855,014,Masters Tournament,2015,Masters Tournament
-856,478,World Challenge,2012,World Challenge presented by Northwestern Mutual
-857,478,World Challenge,2014,Northwestern Mutual World Challenge
-858,478,Target World Challenge,2002,Target World Challenge presented by Williams
-859,478,Target World Challenge,2003,Target World Challenge presented by Williams
-860,478,Target World Challenge,2004,Target World Challenge
-861,478,Target World Challenge,2005,Target World Challenge presented by Countrywide
-862,478,Target World Challenge,2006,Target World Challenge presented by Countrywide
-863,478,Target World Challenge,2007,Target World Challenge
-864,478,Hero World Challenge,2016,Hero World Challenge
-865,478,Hero World Challenge,2017,Hero World Challenge
-866,478,Hero World Challenge,2013,Hero World Challenge
-867,478,Hero World Challenge,2015,Hero World Challenge
-868,478,Chevron World Challenge,2008,Chevron World Challenge presented by Bank of America
-869,478,Chevron World Challenge,2009,Chevron World Challenge
-870,478,Chevron World Challenge,2010,Chevron World Challenge
-871,478,Chevron World Challenge,2011,Chevron World Challenge
-872,478,Williams World Challenge,2000,Williams World Challenge
-873,478,Williams World Challenge,2001,Williams World Challenge
-874,006,Sony Open in Hawaii,2016,Sony Open in Hawaii
-875,006,Sony Open in Hawaii,2017,Sony Open in Hawaii
-876,006,Sony Open in Hawaii,2000,Sony Open in Hawaii
-877,006,Sony Open in Hawaii,2001,Sony Open in Hawaii
-878,006,Sony Open in Hawaii,2002,Sony Open in Hawaii
-879,006,Sony Open in Hawaii,2003,Sony Open in Hawaii
-880,006,Sony Open in Hawaii,2004,Sony Open in Hawaii
-881,006,Sony Open in Hawaii,2005,Sony Open in Hawaii
-882,006,Sony Open in Hawaii,2006,Sony Open in Hawaii
-883,006,Sony Open in Hawaii,2007,Sony Open in Hawaii
-884,006,Sony Open in Hawaii,2008,Sony Open in Hawaii
-885,006,Sony Open in Hawaii,2009,Sony Open in Hawaii
-886,006,Sony Open in Hawaii,2010,Sony Open in Hawaii
-887,006,Sony Open in Hawaii,2011,Sony Open in Hawaii
-888,006,Sony Open in Hawaii,2012,Sony Open in Hawaii
-889,006,Sony Open in Hawaii,2013,Sony Open in Hawaii
-890,006,Sony Open in Hawaii,2014,Sony Open in Hawaii
-891,006,Sony Open in Hawaii,2015,Sony Open in Hawaii
+1,013,Wyndham Championship,2012,Wyndham Championship
+2,013,Wyndham Championship,2009,Wyndham Championship
+3,013,Wyndham Championship,2010,Wyndham Championship
+4,013,Wyndham Championship,2018,Wyndham Championship
+5,013,Wyndham Championship,2014,Wyndham Championship
+6,013,Wyndham Championship,2011,Wyndham Championship
+7,013,Wyndham Championship,2013,Wyndham Championship
+8,013,Wyndham Championship,2017,Wyndham Championship
+9,013,Wyndham Championship,2008,Wyndham Championship
+10,013,Wyndham Championship,2016,Wyndham Championship
+11,013,Wyndham Championship,2015,Wyndham Championship
+12,013,Wyndham Championship,2007,Wyndham Championship
+13,013,Chrysler-Greensboro,2004,Chrysler Classic of Greensboro
+14,013,Chrysler-Greensboro,2006,Chrysler Classic of Greensboro
+15,013,Chrysler-Greensboro,2005,Chrysler Classic of Greensboro
+16,013,Chrysler-Greensboro,2003,Chrysler Classic of Greensboro
+17,013,Greater Greensboro Chrys,2002,Greater Greensboro Chrysler Classic
+18,013,Greater Greensboro Chrys,2001,Greater Greensboro Chrysler Classic
+19,013,Greater Greensboro Chrys,2000,Greater Greensboro Chrysler Classic
+20,012,RBC Heritage,2017,RBC Heritage
+21,012,RBC Heritage,2018,RBC Heritage
+22,012,RBC Heritage,2012,RBC Heritage
+23,012,RBC Heritage,2015,RBC Heritage
+24,012,RBC Heritage,2016,RBC Heritage
+25,012,RBC Heritage,2014,RBC Heritage
+26,012,RBC Heritage,2013,RBC Heritage
+27,012,Verizon Heritage,2006,Verizon Heritage
+28,012,Verizon Heritage,2007,Verizon Heritage
+29,012,Verizon Heritage,2009,Verizon Heritage
+30,012,Verizon Heritage,2010,Verizon Heritage
+31,012,Verizon Heritage,2008,Verizon Heritage
+32,012,MCI Classic,2000,MCI Classic
+33,012,MCI Heritage,2004,MCI Heritage
+34,012,MCI Heritage,2005,MCI Heritage
+35,012,MCI Heritage,2003,MCI Heritage
+36,012,WORLDCOM CLASSIC,2002,WORLDCOM CLASSIC-The Heritage of Golf
+37,012,WORLDCOM CLASSIC,2001,WORLDCOM CLASSIC-The Heritage of Golf
+38,012,The Heritage,2011,The Heritage
+39,006,Sony Open in Hawaii,2007,Sony Open in Hawaii
+40,006,Sony Open in Hawaii,2003,Sony Open in Hawaii
+41,006,Sony Open in Hawaii,2008,Sony Open in Hawaii
+42,006,Sony Open in Hawaii,2011,Sony Open in Hawaii
+43,006,Sony Open in Hawaii,2009,Sony Open in Hawaii
+44,006,Sony Open in Hawaii,2013,Sony Open in Hawaii
+45,006,Sony Open in Hawaii,2017,Sony Open in Hawaii
+46,006,Sony Open in Hawaii,2002,Sony Open in Hawaii
+47,006,Sony Open in Hawaii,2004,Sony Open in Hawaii
+48,006,Sony Open in Hawaii,2010,Sony Open in Hawaii
+49,006,Sony Open in Hawaii,2018,Sony Open in Hawaii
+50,006,Sony Open in Hawaii,2006,Sony Open in Hawaii
+51,006,Sony Open in Hawaii,2016,Sony Open in Hawaii
+52,006,Sony Open in Hawaii,2005,Sony Open in Hawaii
+53,006,Sony Open in Hawaii,2014,Sony Open in Hawaii
+54,006,Sony Open in Hawaii,2015,Sony Open in Hawaii
+55,006,Sony Open in Hawaii,2012,Sony Open in Hawaii
+56,006,Sony Open in Hawaii,2001,Sony Open in Hawaii
+57,006,Sony Open in Hawaii,2000,Sony Open in Hawaii
+58,476,WGC-Bridgestone Invit'l,2014,World Golf Championships-Bridgestone Invitational
+59,476,WGC-Bridgestone Invit'l,2009,World Golf Championships-Bridgestone Invitational
+60,476,WGC-Bridgestone Invit'l,2018,World Golf Championships-Bridgestone Invitational
+61,476,WGC-Bridgestone Invit'l,2010,World Golf Championships-Bridgestone Invitational
+62,476,WGC-Bridgestone Invit'l,2006,World Golf Championships-Bridgestone Invitational
+63,476,WGC-Bridgestone Invit'l,2015,World Golf Championships-Bridgestone Invitational
+64,476,WGC-Bridgestone Invit'l,2011,World Golf Championships-Bridgestone Invitational
+65,476,WGC-Bridgestone Invit'l,2012,World Golf Championships-Bridgestone Invitational
+66,476,WGC-Bridgestone Invit'l,2016,World Golf Championships-Bridgestone Invitational
+67,476,WGC-Bridgestone Invit'l,2007,World Golf Championships-Bridgestone Invitational
+68,476,WGC-Bridgestone Invit'l,2017,World Golf Championships-Bridgestone Invitational
+69,476,WGC-Bridgestone Invit'l,2013,World Golf Championships-Bridgestone Invitational
+70,476,WGC-Bridgestone Invit'l,2008,World Golf Championships-Bridgestone Invitational
+71,476,WGC-NEC Invitational,2002,World Golf Championships-NEC Invitational
+72,476,WGC-NEC Invitational,2005,World Golf Championships-NEC Invitational
+73,476,WGC-NEC Invitational,2003,World Golf Championships-NEC Invitational
+74,476,WGC-NEC Invitational,2001,World Golf Championships-NEC Invitational
+75,476,WGC-NEC Invitational,2000,World Golf Championships-NEC Invitational
+76,476,WGC-NEC Invitational,2004,World Golf Championships-NEC Invitational
+77,475,Valspar Championship,2014,Valspar Championship
+78,475,Valspar Championship,2017,Valspar Championship
+79,475,Valspar Championship,2015,Valspar Championship
+80,475,Valspar Championship,2016,Valspar Championship
+81,475,Valspar Championship,2018,Valspar Championship
+82,475,Transitions Championship,2012,Transitions Championship
+83,475,Transitions Championship,2009,Transitions Championship
+84,475,Transitions Championship,2010,Transitions Championship
+85,475,Transitions Championship,2011,Transitions Championship
+86,475,PODS Championship,2007,PODS Championship
+87,475,PODS Championship,2008,PODS Championship
+88,475,Chrysler Championship,2006,Chrysler Championship
+89,475,Chrysler Championship,2003,Chrysler Championship
+90,475,Chrysler Championship,2004,Chrysler Championship
+91,475,Chrysler Championship,2005,Chrysler Championship
+92,475,Tampa Bay Classic,2002,Tampa Bay Classic presented by Buick
+93,475,Tampa Bay Classic,2001,Tampa Bay Classic presented by Buick
+94,475,Tampa Bay Classic,2000,Tampa Bay Classic
+95,475,Tampa Bay Championship,2013,Tampa Bay Championship presented by EverBank
+96,030,John Deere Classic,2010,John Deere Classic
+97,030,John Deere Classic,2013,John Deere Classic
+98,030,John Deere Classic,2001,John Deere Classic
+99,030,John Deere Classic,2015,John Deere Classic
+100,030,John Deere Classic,2006,John Deere Classic
+101,030,John Deere Classic,2012,John Deere Classic
+102,030,John Deere Classic,2017,John Deere Classic
+103,030,John Deere Classic,2014,John Deere Classic
+104,030,John Deere Classic,2005,John Deere Classic
+105,030,John Deere Classic,2018,John Deere Classic
+106,030,John Deere Classic,2007,John Deere Classic
+107,030,John Deere Classic,2008,John Deere Classic
+108,030,John Deere Classic,2000,John Deere Classic
+109,030,John Deere Classic,2004,John Deere Classic
+110,030,John Deere Classic,2002,John Deere Classic
+111,030,John Deere Classic,2009,John Deere Classic
+112,030,John Deere Classic,2003,John Deere Classic
+113,030,John Deere Classic,2011,John Deere Classic
+114,030,John Deere Classic,2016,John Deere Classic
+115,037,B.C. Open,2006,B.C. Open presented by Turning Stone Resort
+116,037,B.C. Open,2002,B.C. Open
+117,037,B.C. Open,2004,B.C. Open
+118,037,B.C. Open,2003,B.C. Open
+119,037,B.C. Open,2001,B.C. Open
+120,037,B.C. Open,2000,B.C. Open
+121,037,B.C. Open,2005,B.C. Open
+122,518,Barbasol Championship,2015,Barbasol Championship
+123,518,Barbasol Championship,2017,Barbasol Championship
+124,518,Barbasol Championship,2018,Barbasol Championship
+125,518,Barbasol Championship,2016,Barbasol Championship
+126,493,The RSM Classic,2017,The RSM Classic
+127,493,The RSM Classic,2018,The RSM Classic
+128,493,The RSM Classic,2016,The RSM Classic
+129,493,The McGladrey Classic,2012,The McGladrey Classic
+130,493,The McGladrey Classic,2013,The McGladrey Classic
+131,493,The McGladrey Classic,2011,The McGladrey Classic
+132,493,The McGladrey Classic,2014,The McGladrey Classic
+133,493,The McGladrey Classic,2015,The McGladrey Classic
+134,493,The McGladrey Classic,2010,The McGladrey Classic
+135,060,TOUR Championship,2012,TOUR Championship by Coca-Cola
+136,060,TOUR Championship,2011,TOUR Championship by Coca-Cola
+137,060,TOUR Championship,2014,TOUR Championship by Coca-Cola
+138,060,TOUR Championship,2015,TOUR Championship by Coca-Cola
+139,060,TOUR Championship,2018,TOUR Championship
+140,060,TOUR Championship,2016,TOUR Championship
+141,060,TOUR Championship,2013,TOUR Championship by Coca-Cola
+142,060,THE TOUR Championship,2005,THE TOUR Championship presented by Coca-Cola
+143,060,THE TOUR Championship,2000,THE TOUR Championship
+144,060,THE TOUR Championship,2008,THE TOUR Championship presented by Coca-Cola
+145,060,THE TOUR Championship,2006,THE TOUR Championship presented by Coca-Cola
+146,060,THE TOUR Championship,2003,THE TOUR Championship presented by Coca-Cola
+147,060,THE TOUR Championship,2009,THE TOUR Championship presented by Coca-Cola
+148,060,THE TOUR Championship,2007,THE TOUR Championship presented by Coca-Cola
+149,060,THE TOUR Championship,2002,THE TOUR Championship presented by Coca-Cola
+150,060,THE TOUR Championship,2010,THE TOUR Championship presented by Coca-Cola
+151,060,THE TOUR Championship,2001,THE TOUR Championship
+152,060,THE TOUR Championship,2004,THE TOUR Championship presented by Coca-Cola
+153,014,Masters Tournament,2006,Masters Tournament
+154,014,Masters Tournament,2009,Masters Tournament
+155,014,Masters Tournament,2007,Masters Tournament
+156,014,Masters Tournament,2013,Masters Tournament
+157,014,Masters Tournament,2002,Masters Tournament
+158,014,Masters Tournament,2003,Masters Tournament
+159,014,Masters Tournament,2011,Masters Tournament
+160,014,Masters Tournament,2017,Masters Tournament
+161,014,Masters Tournament,2004,Masters Tournament
+162,014,Masters Tournament,2016,Masters Tournament
+163,014,Masters Tournament,2015,Masters Tournament
+164,014,Masters Tournament,2001,Masters Tournament
+165,014,Masters Tournament,2014,Masters Tournament
+166,014,Masters Tournament,2005,Masters Tournament
+167,014,Masters Tournament,2012,Masters Tournament
+168,014,Masters Tournament,2018,Masters Tournament
+169,014,Masters Tournament,2008,Masters Tournament
+170,014,Masters Tournament,2000,Masters Tournament
+171,014,Masters Tournament,2010,Masters Tournament
+172,032,Canadian Open,2006,Canadian Open
+173,032,Canadian Open,2007,Canadian Open presented by Franklin Templeton Investments
+174,032,Bell Canadian Open,2004,Bell Canadian Open
+175,032,Bell Canadian Open,2003,Bell Canadian Open
+176,032,Bell Canadian Open,2000,Bell Canadian Open
+177,032,Bell Canadian Open,2002,Bell Canadian Open
+178,032,Bell Canadian Open,2001,Bell Canadian Open
+179,032,Bell Canadian Open,2005,Bell Canadian Open
+180,032,RBC Canadian Open,2008,RBC Canadian Open
+181,032,RBC Canadian Open,2017,RBC Canadian Open
+182,032,RBC Canadian Open,2009,RBC Canadian Open
+183,032,RBC Canadian Open,2014,RBC Canadian Open
+184,032,RBC Canadian Open,2012,RBC Canadian Open
+185,032,RBC Canadian Open,2018,RBC Canadian Open
+186,032,RBC Canadian Open,2015,RBC Canadian Open
+187,032,RBC Canadian Open,2011,RBC Canadian Open
+188,032,RBC Canadian Open,2010,RBC Canadian Open
+189,032,RBC Canadian Open,2016,RBC Canadian Open
+190,032,RBC Canadian Open,2013,RBC Canadian Open
+191,027,Buick Classic,2004,Buick Classic
+192,027,Buick Classic,2001,Buick Classic
+193,027,Buick Classic,2002,Buick Classic
+194,027,Buick Classic,2000,Buick Classic
+195,027,Buick Classic,2003,Buick Classic
+196,027,The Barclays,2016,The Barclays
+197,027,The Barclays,2011,The Barclays
+198,027,The Barclays,2014,The Barclays
+199,027,The Barclays,2013,The Barclays
+200,027,The Barclays,2007,The Barclays
+201,027,The Barclays,2009,The Barclays
+202,027,The Barclays,2008,The Barclays
+203,027,The Barclays,2015,The Barclays
+204,027,The Barclays,2010,The Barclays
+205,027,The Barclays,2012,The Barclays
+206,027,Barclays Classic,2006,Barclays Classic
+207,027,Barclays Classic,2005,Barclays Classic
+208,027,THE NORTHERN TRUST,2017,THE NORTHERN TRUST
+209,027,THE NORTHERN TRUST,2018,THE NORTHERN TRUST
+210,489,WGC-HSBC Champions,2010,World Golf Championships-HSBC Champions
+211,489,WGC-HSBC Champions,2009,World Golf Championships-HSBC Champions
+212,489,WGC-HSBC Champions,2016,World Golf Championships-HSBC Champions
+213,489,WGC-HSBC Champions,2012,World Golf Championships-HSBC Champions
+214,489,WGC-HSBC Champions,2017,World Golf Championships-HSBC Champions
+215,489,WGC-HSBC Champions,2013,World Golf Championships-HSBC Champions
+216,489,WGC-HSBC Champions,2011,World Golf Championships-HSBC Champions
+217,489,WGC-HSBC Champions,2014,World Golf Championships-HSBC Champions
+218,489,WGC-HSBC Champions,2015,World Golf Championships-HSBC Champions
+219,489,WGC-HSBC Champions,2018,World Golf Championships-HSBC Champions
+220,457,OHL Classic at Mayakoba,2018,OHL Classic at Mayakoba
+221,457,OHL Classic at Mayakoba,2015,OHL Classic at Mayakoba
+222,457,OHL Classic at Mayakoba,2014,OHL Classic at Mayakoba
+223,457,OHL Classic at Mayakoba,2017,OHL Classic at Mayakoba
+224,457,OHL Classic at Mayakoba,2016,OHL Classic at Mayakoba
+225,457,OHL Classic at Mayakoba,2013,OHL Classic at Mayakoba
+226,457,Mayakoba Golf Classic,2007,Mayakoba Golf Classic at Riviera Maya-Cancun
+227,457,Mayakoba Golf Classic,2012,Mayakoba Golf Classic
+228,457,Mayakoba Golf Classic,2009,Mayakoba Golf Classic at Riviera Maya-Cancun
+229,457,Mayakoba Golf Classic,2010,Mayakoba Golf Classic at Riviera Maya-Cancun
+230,457,Mayakoba Golf Classic,2008,Mayakoba Golf Classic at Riviera Maya-Cancun
+231,457,Mayakoba Golf Classic,2011,Mayakoba Golf Classic at Riviera Maya-Cancun
+232,010,Honda Classic,2001,Honda Classic
+233,010,Honda Classic,2000,Honda Classic
+234,010,The Honda Classic,2014,The Honda Classic
+235,010,The Honda Classic,2005,The Honda Classic
+236,010,The Honda Classic,2011,The Honda Classic
+237,010,The Honda Classic,2006,The Honda Classic
+238,010,The Honda Classic,2009,The Honda Classic
+239,010,The Honda Classic,2016,The Honda Classic
+240,010,The Honda Classic,2018,The Honda Classic
+241,010,The Honda Classic,2003,The Honda Classic
+242,010,The Honda Classic,2010,The Honda Classic
+243,010,The Honda Classic,2012,The Honda Classic
+244,010,The Honda Classic,2002,The Honda Classic
+245,010,The Honda Classic,2004,The Honda Classic
+246,010,The Honda Classic,2008,The Honda Classic
+247,010,The Honda Classic,2015,The Honda Classic
+248,010,The Honda Classic,2017,The Honda Classic
+249,010,The Honda Classic,2007,The Honda Classic
+250,010,The Honda Classic,2013,The Honda Classic
+251,002,CareerBuilder Challenge,2016,CareerBuilder Challenge in partnership with the Clinton Foundation
+252,002,CareerBuilder Challenge,2017,CareerBuilder Challenge
+253,002,CareerBuilder Challenge,2018,CareerBuilder Challenge
+254,002,Bob Hope Classic,2010,Bob Hope Classic
+255,002,Bob Hope Classic,2011,Bob Hope Classic
+256,002,Bob Hope Chrysler Classic,2008,Bob Hope Chrysler Classic
+257,002,Bob Hope Chrysler Classic,2007,Bob Hope Chrysler Classic
+258,002,Bob Hope Chrysler Classic,2006,Bob Hope Chrysler Classic
+259,002,Bob Hope Chrysler Classic,2004,Bob Hope Chrysler Classic
+260,002,Bob Hope Chrysler Classic,2002,Bob Hope Chrysler Classic
+261,002,Bob Hope Chrysler Classic,2000,Bob Hope Chrysler Classic
+262,002,Bob Hope Chrysler Classic,2001,Bob Hope Chrysler Classic
+263,002,Bob Hope Chrysler Classic,2003,Bob Hope Chrysler Classic
+264,002,Bob Hope Chrysler Classic,2005,Bob Hope Chrysler Classic
+265,002,Humana Challenge,2012,Humana Challenge in partnership with the Clinton Foundation
+266,002,Humana Challenge,2013,Humana Challenge in partnership with the Clinton Foundation
+267,002,Humana Challenge,2014,Humana Challenge in partnership with the Clinton Foundation
+268,002,Humana Challenge,2015,Humana Challenge in partnership with the Clinton Foundation
+269,002,The 50th Bob Hope Classic,2009,The 50th Bob Hope Classic hosted by Arnold Palmer
+270,468,Ryder Cup,2012,Ryder Cup
+271,468,Ryder Cup,2004,Ryder Cup
+272,468,Ryder Cup,2006,Ryder Cup
+273,468,Ryder Cup,2010,Ryder Cup
+274,468,Ryder Cup,2001,Ryder Cup
+275,468,Ryder Cup,2018,Ryder Cup
+276,468,Ryder Cup,2014,Ryder Cup
+277,468,Ryder Cup,2008,Ryder Cup
+278,468,Ryder Cup,2002,Ryder Cup
+279,472,Legends Reno-Tahoe Open,2009,Legends Reno-Tahoe Open
+280,472,Legends Reno-Tahoe Open,2008,Legends Reno-Tahoe Open
+281,472,Reno-Tahoe Open,2005,Reno-Tahoe Open
+282,472,Reno-Tahoe Open,2012,Reno-Tahoe Open
+283,472,Reno-Tahoe Open,2011,Reno-Tahoe Open
+284,472,Reno-Tahoe Open,2007,Reno-Tahoe Open
+285,472,Reno-Tahoe Open,2004,Reno-Tahoe Open
+286,472,Reno-Tahoe Open,2006,Reno-Tahoe Open
+287,472,Reno-Tahoe Open,2001,Reno-Tahoe Open
+288,472,Reno-Tahoe Open,2013,Reno-Tahoe Open
+289,472,Reno-Tahoe Open,2003,Reno-Tahoe Open
+290,472,Reno-Tahoe Open,2010,Reno-Tahoe Open
+291,472,Reno-Tahoe Open,2000,Reno-Tahoe Open
+292,472,Reno-Tahoe Open,2002,Reno-Tahoe Open
+293,472,Barracuda Championship,2014,Barracuda Championship
+294,472,Barracuda Championship,2018,Barracuda Championship
+295,472,Barracuda Championship,2015,Barracuda Championship
+296,472,Barracuda Championship,2016,Barracuda Championship
+297,001,Touchstone Energy Tucson,2002,Touchstone Energy Tucson Open
+298,001,Touchstone Energy Tucson,2001,Touchstone Energy Tucson Open
+299,001,Touchstone Energy Tucson,2000,Touchstone Energy Tucson Open
+300,001,Chrysler Classic Tucson,2004,Chrysler Classic of Tucson
+301,001,Chrysler Classic Tucson,2005,Chrysler Classic of Tucson
+302,001,Chrysler Classic Tucson,2003,Chrysler Classic of Tucson
+303,001,Chrysler Classic Tucson,2006,Chrysler Classic of Tucson
+304,478,Hero World Challenge,2013,Hero World Challenge
+305,478,Hero World Challenge,2017,Hero World Challenge
+306,478,Hero World Challenge,2016,Hero World Challenge
+307,478,Hero World Challenge,2018,Hero World Challenge
+308,478,Hero World Challenge,2015,Hero World Challenge
+309,478,World Challenge,2012,World Challenge presented by Northwestern Mutual
+310,478,World Challenge,2014,Northwestern Mutual World Challenge
+311,478,Williams World Challenge,2000,Williams World Challenge
+312,478,Williams World Challenge,2001,Williams World Challenge
+313,478,Target World Challenge,2004,Target World Challenge
+314,478,Target World Challenge,2006,Target World Challenge presented by Countrywide
+315,478,Target World Challenge,2003,Target World Challenge presented by Williams
+316,478,Target World Challenge,2005,Target World Challenge presented by Countrywide
+317,478,Target World Challenge,2002,Target World Challenge presented by Williams
+318,478,Target World Challenge,2007,Target World Challenge
+319,478,Chevron World Challenge,2009,Chevron World Challenge
+320,478,Chevron World Challenge,2010,Chevron World Challenge
+321,478,Chevron World Challenge,2008,Chevron World Challenge presented by Bank of America
+322,478,Chevron World Challenge,2011,Chevron World Challenge
+323,480,Wells Fargo Championship,2017,Wells Fargo Championship
+324,480,Wells Fargo Championship,2012,Wells Fargo Championship
+325,480,Wells Fargo Championship,2014,Wells Fargo Championship
+326,480,Wells Fargo Championship,2015,Wells Fargo Championship
+327,480,Wells Fargo Championship,2011,Wells Fargo Championship
+328,480,Wells Fargo Championship,2016,Wells Fargo Championship
+329,480,Wells Fargo Championship,2013,Wells Fargo Championship
+330,480,Wells Fargo Championship,2018,Wells Fargo Championship
+331,480,Wachovia Championship,2005,Wachovia Championship
+332,480,Wachovia Championship,2004,Wachovia Championship
+333,480,Wachovia Championship,2006,Wachovia Championship
+334,480,Wachovia Championship,2003,Wachovia Championship
+335,480,Wachovia Championship,2007,Wachovia Championship
+336,480,Wachovia Championship,2008,Wachovia Championship
+337,480,Quail Hollow Championship,2009,Quail Hollow Championship
+338,480,Quail Hollow Championship,2010,Quail Hollow Championship
+339,005,AT&T; Pebble Beach,2010,AT&T; Pebble Beach National Pro-Am
+340,005,AT&T; Pebble Beach,2004,AT&T; Pebble Beach National Pro-Am
+341,005,AT&T; Pebble Beach,2006,AT&T; Pebble Beach National Pro-Am
+342,005,AT&T; Pebble Beach,2000,AT&T; Pebble Beach National Pro-Am
+343,005,AT&T; Pebble Beach,2014,AT&T; Pebble Beach National Pro-Am
+344,005,AT&T; Pebble Beach,2003,AT&T; Pebble Beach National Pro-Am
+345,005,AT&T; Pebble Beach,2001,AT&T; Pebble Beach National Pro-Am
+346,005,AT&T; Pebble Beach,2008,AT&T; Pebble Beach National Pro-Am
+347,005,AT&T; Pebble Beach,2013,AT&T; Pebble Beach National Pro-Am
+348,005,AT&T; Pebble Beach,2015,AT&T; Pebble Beach National Pro-Am
+349,005,AT&T; Pebble Beach,2002,AT&T; Pebble Beach National Pro-Am
+350,005,AT&T; Pebble Beach,2012,AT&T; Pebble Beach National Pro-Am
+351,005,AT&T; Pebble Beach,2009,AT&T; Pebble Beach National Pro-Am
+352,005,AT&T; Pebble Beach,2011,AT&T; Pebble Beach National Pro-Am
+353,005,AT&T; Pebble Beach,2016,AT&T; Pebble Beach Pro-Am
+354,005,AT&T; Pebble Beach,2005,AT&T; Pebble Beach National Pro-Am
+355,005,AT&T; Pebble Beach,2007,AT&T; Pebble Beach National Pro-Am
+356,005,AT&T Pebble Beach,2018,AT&T Pebble Beach Pro-Am
+357,005,AT&T Pebble Beach,2017,AT&T Pebble Beach Pro-Am
+358,021,Crowne Plaza Invitational,2013,Crowne Plaza Invitational at Colonial
+359,021,Crowne Plaza Invitational,2015,Crowne Plaza Invitational at Colonial
+360,021,Crowne Plaza Invitational,2009,Crowne Plaza Invitational at Colonial
+361,021,Crowne Plaza Invitational,2011,Crowne Plaza Invitational at Colonial
+362,021,Crowne Plaza Invitational,2008,Crowne Plaza Invitational at Colonial
+363,021,Crowne Plaza Invitational,2007,Crowne Plaza Invitational at Colonial
+364,021,Crowne Plaza Invitational,2010,Crowne Plaza Invitational at Colonial
+365,021,Crowne Plaza Invitational,2012,Crowne Plaza Invitational at Colonial
+366,021,Crowne Plaza Invitational,2014,Crowne Plaza Invitational at Colonial
+367,021,DEAN & DELUCA Invt'l,2016,DEAN & DELUCA Invitational
+368,021,DEAN & DELUCA Invt'l,2017,DEAN & DELUCA Invitational
+369,021,MasterCard Colonial,2002,MasterCard Colonial
+370,021,MasterCard Colonial,2000,MasterCard Colonial
+371,021,MasterCard Colonial,2001,MasterCard Colonial
+372,021,Bank of America Colonial,2003,Bank of America Colonial
+373,021,Bank of America Colonial,2004,Bank of America Colonial
+374,021,Bank of America Colonial,2006,Bank of America Colonial
+375,021,Bank of America Colonial,2005,Bank of America Colonial
+376,021,Fort Worth Invitational,2018,Fort Worth Invitational
+377,004,Buick Invitational,2002,Buick Invitational
+378,004,Buick Invitational,2008,Buick Invitational
+379,004,Buick Invitational,2006,Buick Invitational
+380,004,Buick Invitational,2003,Buick Invitational
+381,004,Buick Invitational,2005,Buick Invitational
+382,004,Buick Invitational,2007,Buick Invitational
+383,004,Buick Invitational,2000,Buick Invitational
+384,004,Buick Invitational,2009,Buick Invitational
+385,004,Buick Invitational,2004,Buick Invitational
+386,004,Buick Invitational,2001,Buick Invitational
+387,004,Farmers Insurance Open,2018,Farmers Insurance Open
+388,004,Farmers Insurance Open,2011,Farmers Insurance Open
+389,004,Farmers Insurance Open,2014,Farmers Insurance Open
+390,004,Farmers Insurance Open,2015,Farmers Insurance Open
+391,004,Farmers Insurance Open,2012,Farmers Insurance Open
+392,004,Farmers Insurance Open,2013,Farmers Insurance Open
+393,004,Farmers Insurance Open,2017,Farmers Insurance Open
+394,004,Farmers Insurance Open,2010,Farmers Insurance Open
+395,004,Farmers Insurance Open,2016,Farmers Insurance Open
+396,034,Buick Championship,2006,Buick Championship
+397,034,Buick Championship,2004,Buick Championship
+398,034,Buick Championship,2005,Buick Championship
+399,034,Travelers Championship,2018,Travelers Championship
+400,034,Travelers Championship,2013,Travelers Championship
+401,034,Travelers Championship,2010,Travelers Championship
+402,034,Travelers Championship,2015,Travelers Championship
+403,034,Travelers Championship,2011,Travelers Championship
+404,034,Travelers Championship,2016,Travelers Championship
+405,034,Travelers Championship,2007,Travelers Championship
+406,034,Travelers Championship,2008,Travelers Championship
+407,034,Travelers Championship,2012,Travelers Championship
+408,034,Travelers Championship,2009,Travelers Championship
+409,034,Travelers Championship,2014,Travelers Championship
+410,034,Travelers Championship,2017,Travelers Championship
+411,034,Canon Greater Hartford Op,2000,Canon Greater Hartford Open
+412,034,Canon Greater Hartford Op,2002,Canon Greater Hartford Open
+413,034,Canon Greater Hartford Op,2001,Canon Greater Hartford Open
+414,034,Greater Hartford Open,2003,Greater Hartford Open
+415,100,The Open Championship,2018,The Open Championship
+416,100,The Open Championship,2004,The Open Championship
+417,100,The Open Championship,2006,The Open Championship
+418,100,The Open Championship,2001,The Open Championship
+419,100,The Open Championship,2000,The Open Championship
+420,100,The Open Championship,2009,The Open Championship
+421,100,The Open Championship,2013,The Open Championship
+422,100,The Open Championship,2015,The Open Championship
+423,100,The Open Championship,2011,The Open Championship
+424,100,The Open Championship,2008,The Open Championship
+425,100,The Open Championship,2017,The Open Championship
+426,100,The Open Championship,2002,The Open Championship
+427,100,The Open Championship,2014,The Open Championship
+428,100,The Open Championship,2012,The Open Championship
+429,100,The Open Championship,2003,The Open Championship
+430,100,The Open Championship,2007,The Open Championship
+431,100,The Open Championship,2005,The Open Championship
+432,100,The Open Championship,2010,The Open Championship
+433,100,The Open Championship,2016,The Open Championship
+434,471,AT&T; National,2011,AT&T; National
+435,471,AT&T; National,2010,AT&T; National
+436,471,AT&T; National,2007,AT&T; National
+437,471,AT&T; National,2008,AT&T; National
+438,471,AT&T; National,2009,AT&T; National
+439,471,AT&T; National,2012,AT&T; National
+440,471,AT&T; National,2013,AT&T; National
+441,471,Quicken Loans National,2015,Quicken Loans National
+442,471,Quicken Loans National,2014,Quicken Loans National
+443,471,Quicken Loans National,2016,Quicken Loans National
+444,471,Quicken Loans National,2018,Quicken Loans National
+445,471,Quicken Loans National,2017,Quicken Loans National
+446,058,Franklin Templeton,2014,Franklin Templeton Shootout
+447,058,Franklin Templeton,2004,Franklin Templeton Shootout
+448,058,Franklin Templeton,2000,Franklin Templeton Shootout
+449,058,Franklin Templeton,2013,Franklin Templeton Shootout
+450,058,Franklin Templeton,2016,Franklin Templeton Shootout
+451,058,Franklin Templeton,2017,Franklin Templeton Shootout
+452,058,Franklin Templeton,2002,Franklin Templeton Shootout
+453,058,Franklin Templeton,2001,Franklin Templeton Shootout
+454,058,Franklin Templeton,2003,Franklin Templeton Shootout
+455,058,Franklin Templeton,2011,Franklin Templeton Shootout
+456,058,Franklin Templeton,2012,Franklin Templeton Shootout
+457,058,Franklin Templeton,2005,Franklin Templeton Shootout
+458,058,Franklin Templeton,2015,Franklin Templeton Shootout
+459,058,QBE Shootout,2018,QBE Shootout
+460,058,The Shark Shootout,2010,The Shark Shootout
+461,058,The Shark Shootout,2009,The Shark Shootout
+462,058,Merrill Lynch Shootout,2006,Merrill Lynch Shootout
+463,058,Merrill Lynch Shootout,2008,Merrill Lynch Shootout
+464,058,Merrill Lynch Shootout,2007,Merrill Lynch Shootout
+465,024,Booz Allen Classic,2006,Booz Allen Classic
+466,024,Booz Allen Classic,2005,Booz Allen Classic
+467,024,Booz Allen Classic,2004,Booz Allen Classic
+468,024,Kemper Insurance Open,2001,Kemper Insurance Open
+469,024,Kemper Insurance Open,2000,Kemper Insurance Open
+470,024,Kemper Insurance Open,2002,Kemper Insurance Open
+471,024,FBR Capital Open,2003,FBR Capital Open
+472,033,PGA Championship,2010,PGA Championship
+473,033,PGA Championship,2006,PGA Championship
+474,033,PGA Championship,2018,PGA Championship
+475,033,PGA Championship,2007,PGA Championship
+476,033,PGA Championship,2009,PGA Championship
+477,033,PGA Championship,2016,PGA Championship
+478,033,PGA Championship,2001,PGA Championship
+479,033,PGA Championship,2005,PGA Championship
+480,033,PGA Championship,2004,PGA Championship
+481,033,PGA Championship,2000,PGA Championship
+482,033,PGA Championship,2003,PGA Championship
+483,033,PGA Championship,2013,PGA Championship
+484,033,PGA Championship,2015,PGA Championship
+485,033,PGA Championship,2008,PGA Championship
+486,033,PGA Championship,2014,PGA Championship
+487,033,PGA Championship,2011,PGA Championship
+488,033,PGA Championship,2012,PGA Championship
+489,033,PGA Championship,2002,PGA Championship
+490,033,PGA Championship,2017,PGA Championship
+491,031,Michelob Championship,2000,Michelob Championship at Kingsmill
+492,031,Michelob Championship,2002,Michelob Championship at Kingsmill
+493,031,Michelob Championship,2001,Michelob Championship at Kingsmill
+494,003,Waste Management Phoenix,2016,Waste Management Phoenix Open
+495,003,Waste Management Phoenix,2011,Waste Management Phoenix Open
+496,003,Waste Management Phoenix,2012,Waste Management Phoenix Open
+497,003,Waste Management Phoenix,2013,Waste Management Phoenix Open
+498,003,Waste Management Phoenix,2015,Waste Management Phoenix Open
+499,003,Waste Management Phoenix,2018,Waste Management Phoenix Open
+500,003,Waste Management Phoenix,2014,Waste Management Phoenix Open
+501,003,Waste Management Phoenix,2017,Waste Management Phoenix Open
+502,003,Waste Management Phoenix,2010,Waste Management Phoenix Open
+503,003,FBR Open,2009,FBR Open
+504,003,FBR Open,2004,FBR Open
+505,003,FBR Open,2005,FBR Open
+506,003,FBR Open,2008,FBR Open
+507,003,FBR Open,2006,FBR Open
+508,003,FBR Open,2007,FBR Open
+509,003,Phoenix Open,2002,Phoenix Open
+510,003,Phoenix Open,2003,Phoenix Open
+511,003,Phoenix Open,2001,Phoenix Open
+512,003,Phoenix Open,2000,Phoenix Open
+513,016,Mercedes Championships,2002,Mercedes Championships
+514,016,Mercedes Championships,2004,Mercedes Championships
+515,016,Mercedes Championships,2000,Mercedes Championships
+516,016,Mercedes Championships,2003,Mercedes Championships
+517,016,Mercedes Championships,2006,Mercedes Championships
+518,016,Mercedes Championships,2005,Mercedes Championships
+519,016,Mercedes Championships,2001,Mercedes Championships
+520,016,Sentry T of C,2018,Sentry Tournament of Champions
+521,016,Hyundai T of C,2013,Hyundai Tournament of Champions
+522,016,Hyundai T of C,2012,Hyundai Tournament of Champions
+523,016,Hyundai T of C,2016,Hyundai Tournament of Champions
+524,016,Hyundai T of C,2011,Hyundai Tournament of Champions
+525,016,Hyundai T of C,2015,Hyundai Tournament of Champions
+526,016,Hyundai T of C,2014,Hyundai Tournament of Champions
+527,016,SBS Tournament of Champ,2017,SBS Tournament of Champions
+528,016,Mercedes-Benz Champ,2009,Mercedes-Benz Championship
+529,016,Mercedes-Benz Champ,2008,Mercedes-Benz Championship
+530,016,Mercedes-Benz Champ,2007,Mercedes-Benz Championship
+531,016,SBS Championship,2010,SBS Championship
+532,018,Zurich Classic of New Orl,2011,Zurich Classic of New Orleans
+533,018,Zurich Classic of New Orl,2012,Zurich Classic of New Orleans
+534,018,Zurich Classic of New Orl,2010,Zurich Classic of New Orleans
+535,018,Zurich Classic of New Orl,2017,Zurich Classic of New Orleans
+536,018,Zurich Classic of New Orl,2007,Zurich Classic of New Orleans
+537,018,Zurich Classic of New Orl,2018,Zurich Classic of New Orleans
+538,018,Zurich Classic of New Orl,2006,Zurich Classic of New Orleans
+539,018,Zurich Classic of New Orl,2005,Zurich Classic of New Orleans
+540,018,Zurich Classic of New Orl,2008,Zurich Classic of New Orleans
+541,018,Zurich Classic of New Orl,2015,Zurich Classic of New Orleans
+542,018,Zurich Classic of New Orl,2009,Zurich Classic of New Orleans
+543,018,Zurich Classic of New Orl,2014,Zurich Classic of New Orleans
+544,018,Zurich Classic of New Orl,2013,Zurich Classic of New Orleans
+545,018,Zurich Classic of New Orl,2016,Zurich Classic of New Orleans
+546,018,Compaq Classic of New Or,2002,Compaq Classic of New Orleans
+547,018,Compaq Classic of New Or,2001,Compaq Classic of New Orleans
+548,018,COMPAQ Classic of New Or,2000,COMPAQ Classic of New Orleans
+549,018,HP Classic of New Orleans,2004,HP Classic of New Orleans
+550,018,HP Classic of New Orleans,2003,HP Classic of New Orleans
+551,019,HP Byron Nelson Champ,2013,HP Byron Nelson Championship
+552,019,HP Byron Nelson Champ,2012,HP Byron Nelson Championship
+553,019,HP Byron Nelson Champ,2011,HP Byron Nelson Championship
+554,019,HP Byron Nelson Champ,2014,HP Byron Nelson Championship
+555,019,HP Byron Nelson Champ,2010,HP Byron Nelson Championship
+556,019,HP Byron Nelson Champ,2009,HP Byron Nelson Championship
+557,019,EDS Byron Nelson Champ,2008,EDS Byron Nelson Championship
+558,019,EDS Byron Nelson Champ,2007,EDS Byron Nelson Championship
+559,019,EDS Byron Nelson Champ,2003,EDS Byron Nelson Championship
+560,019,EDS Byron Nelson Champ,2006,EDS Byron Nelson Championship
+561,019,EDS Byron Nelson Champ,2005,EDS Byron Nelson Championship
+562,019,EDS Byron Nelson Champ,2004,EDS Byron Nelson Championship
+563,019,AT&T; Byron Nelson,2015,AT&T; Byron Nelson
+564,019,AT&T; Byron Nelson,2016,AT&T; Byron Nelson
+565,019,AT&T Byron Nelson,2018,AT&T Byron Nelson
+566,019,AT&T Byron Nelson,2017,AT&T Byron Nelson
+567,019,Verizon Byron Nelson,2002,Verizon Byron Nelson Classic
+568,019,Verizon Byron Nelson,2001,Verizon Byron Nelson Classic
+569,019,GTE Byron Nelson Classic,2000,GTE Byron Nelson Classic
+570,025,FedEx St. Jude Classic,2005,FedEx St. Jude Classic
+571,025,FedEx St. Jude Classic,2003,FedEx St. Jude Classic
+572,025,FedEx St. Jude Classic,2004,FedEx St. Jude Classic
+573,025,FedEx St. Jude Classic,2015,FedEx St. Jude Classic
+574,025,FedEx St. Jude Classic,2016,FedEx St. Jude Classic
+575,025,FedEx St. Jude Classic,2018,FedEx St. Jude Classic
+576,025,FedEx St. Jude Classic,2012,FedEx St. Jude Classic
+577,025,FedEx St. Jude Classic,2013,FedEx St. Jude Classic
+578,025,FedEx St. Jude Classic,2017,FedEx St. Jude Classic
+579,025,FedEx St. Jude Classic,2000,FedEx St. Jude Classic
+580,025,FedEx St. Jude Classic,2011,FedEx St. Jude Classic
+581,025,FedEx St. Jude Classic,2014,FedEx St. Jude Classic
+582,025,FedEx St. Jude Classic,2001,FedEx St. Jude Classic
+583,025,FedEx St. Jude Classic,2006,FedEx St. Jude Classic
+584,025,FedEx St. Jude Classic,2002,FedEx St. Jude Classic
+585,025,St. Jude Classic,2009,St. Jude Classic presented by FedEx
+586,025,St. Jude Classic,2010,St. Jude Classic presented by Smith & Nephew
+587,025,Stanford St. Jude Champ,2008,Stanford St. Jude Championship
+588,025,Stanford St. Jude Champ,2007,Stanford St. Jude Championship
+589,473,WGC-American Express,2003,World Golf Championships-American Express Championship
+590,473,WGC-American Express,2002,World Golf Championships-American Express Championship
+591,473,WGC-American Express,2005,World Golf Championships-American Express Championship
+592,473,WGC-American Express,2000,World Golf Championships-American Express Championship
+593,473,WGC-American Express,2001,World Golf Championships-American Express Championship
+594,473,WGC-American Express,2006,World Golf Championships-American Express Championship
+595,473,WGC-American Express,2004,World Golf Championships-American Express Championship
+596,473,WGC-Cadillac Championship,2016,World Golf Championships-Cadillac Championship
+597,473,WGC-Cadillac Championship,2015,World Golf Championships-Cadillac Championship
+598,473,WGC-Cadillac Championship,2011,World Golf Championships-Cadillac Championship
+599,473,WGC-Cadillac Championship,2012,World Golf Championships-Cadillac Championship
+600,473,WGC-Cadillac Championship,2013,World Golf Championships-Cadillac Championship
+601,473,WGC-Cadillac Championship,2014,World Golf Championships-Cadillac Championship
+602,473,WGC-CA Championship,2010,World Golf Championships-CA Championship
+603,473,WGC-CA Championship,2008,World Golf Championships-CA Championship
+604,473,WGC-CA Championship,2009,World Golf Championships-CA Championship
+605,473,WGC-CA Championship,2007,World Golf Championships-CA Championship
+606,473,WGC-Mexico Championship,2018,World Golf Championships-Mexico Championship
+607,473,WGC-Mexico Championship,2017,World Golf Championships-Mexico Championship
+608,035,Buick Open,2003,Buick Open
+609,035,Buick Open,2004,Buick Open
+610,035,Buick Open,2007,Buick Open
+611,035,Buick Open,2000,Buick Open
+612,035,Buick Open,2009,Buick Open
+613,035,Buick Open,2002,Buick Open
+614,035,Buick Open,2005,Buick Open
+615,035,Buick Open,2008,Buick Open
+616,035,Buick Open,2001,Buick Open
+617,035,Buick Open,2006,Buick Open
+618,009,Bay Hill Invitational,2006,Bay Hill Invitational Presented by MasterCard
+619,009,Bay Hill Invitational,2000,Bay Hill Invitational
+620,009,Bay Hill Invitational,2005,Bay Hill Invitational Presented by MasterCard
+621,009,Bay Hill Invitational,2003,Bay Hill Invitational presented by Cooper Tires
+622,009,Bay Hill Invitational,2004,Bay Hill Invitational Presented by MasterCard
+623,009,Bay Hill Invitational,2001,Bay Hill Invitational
+624,009,Bay Hill Invitational,2002,Bay Hill Invitational presented by Cooper Tires
+625,009,Arnold Palmer Invt'l,2008,Arnold Palmer Invitational presented by MasterCard
+626,009,Arnold Palmer Invt'l,2018,Arnold Palmer Invitational presented by Mastercard
+627,009,Arnold Palmer Invt'l,2016,Arnold Palmer Invitational presented by MasterCard
+628,009,Arnold Palmer Invt'l,2007,Arnold Palmer Invitational presented by MasterCard
+629,009,Arnold Palmer Invt'l,2011,Arnold Palmer Invitational presented by MasterCard
+630,009,Arnold Palmer Invt'l,2009,Arnold Palmer Invitational presented by MasterCard
+631,009,Arnold Palmer Invt'l,2013,Arnold Palmer Invitational presented by MasterCard
+632,009,Arnold Palmer Invt'l,2014,Arnold Palmer Invitational presented by MasterCard
+633,009,Arnold Palmer Invt'l,2015,Arnold Palmer Invitational presented by MasterCard
+634,009,Arnold Palmer Invt'l,2017,Arnold Palmer Invitational presented by Mastercard
+635,009,Arnold Palmer Invt'l,2010,Arnold Palmer Invitational presented by MasterCard
+636,009,Arnold Palmer Invt'l,2012,Arnold Palmer Invitational presented by MasterCard
+637,505,Deutsche Bank Champ,2009,Deutsche Bank Championship
+638,505,Deutsche Bank Champ,2006,Deutsche Bank Championship
+639,505,Deutsche Bank Champ,2004,Deutsche Bank Championship
+640,505,Deutsche Bank Champ,2013,Deutsche Bank Championship
+641,505,Deutsche Bank Champ,2015,Deutsche Bank Championship
+642,505,Deutsche Bank Champ,2010,Deutsche Bank Championship
+643,505,Deutsche Bank Champ,2011,Deutsche Bank Championship
+644,505,Deutsche Bank Champ,2003,Deutsche Bank Championship
+645,505,Deutsche Bank Champ,2012,Deutsche Bank Championship
+646,505,Deutsche Bank Champ,2014,Deutsche Bank Championship
+647,505,Deutsche Bank Champ,2016,Deutsche Bank Championship
+648,505,Deutsche Bank Champ,2005,Deutsche Bank Championship
+649,505,Deutsche Bank Champ,2007,Deutsche Bank Championship
+650,505,Deutsche Bank Champ,2008,Deutsche Bank Championship
+651,505,Dell Technologies Champ,2017,Dell Technologies Championship
+652,505,Dell Technologies Champ,2018,Dell Technologies Championship
+653,011,THE PLAYERS Championship,2000,THE PLAYERS Championship
+654,011,THE PLAYERS Championship,2008,THE PLAYERS Championship
+655,011,THE PLAYERS Championship,2005,THE PLAYERS Championship
+656,011,THE PLAYERS Championship,2002,THE PLAYERS Championship
+657,011,THE PLAYERS Championship,2014,THE PLAYERS Championship
+658,011,THE PLAYERS Championship,2004,THE PLAYERS Championship
+659,011,THE PLAYERS Championship,2007,THE PLAYERS Championship
+660,011,THE PLAYERS Championship,2011,THE PLAYERS Championship
+661,011,THE PLAYERS Championship,2010,THE PLAYERS Championship
+662,011,THE PLAYERS Championship,2003,THE PLAYERS Championship
+663,011,THE PLAYERS Championship,2009,THE PLAYERS Championship
+664,011,THE PLAYERS Championship,2016,THE PLAYERS Championship
+665,011,THE PLAYERS Championship,2013,THE PLAYERS Championship
+666,011,THE PLAYERS Championship,2006,THE PLAYERS Championship
+667,011,THE PLAYERS Championship,2015,THE PLAYERS Championship
+668,011,THE PLAYERS Championship,2012,THE PLAYERS Championship
+669,011,THE PLAYERS Championship,2017,THE PLAYERS Championship
+670,011,THE PLAYERS Championship,2001,THE PLAYERS Championship
+671,011,THE PLAYERS Championship,2018,THE PLAYERS Championship
+672,088,PGA TOUR Qualifying Tourn,2009,PGA TOUR Qualifying Tournament
+673,088,PGA TOUR Qualifying Tourn,2005,PGA TOUR Qualifying Tournament
+674,088,PGA TOUR Qualifying Tourn,2007,PGA TOUR Qualifying Tournament
+675,088,PGA TOUR Qualifying Tourn,2008,PGA TOUR Qualifying Tournament
+676,088,PGA TOUR Qualifying Tourn,2010,PGA TOUR Qualifying Tournament
+677,088,PGA TOUR Qualifying Tourn,2002,PGA TOUR Qualifying Tournament
+678,088,PGA TOUR Qualifying Tourn,2004,PGA TOUR Qualifying Tournament
+679,088,PGA TOUR Qualifying Tourn,2001,PGA TOUR Qualifying Tournament
+680,088,PGA TOUR Qualifying Tourn,2003,PGA TOUR Qualifying Tournament
+681,088,PGA TOUR Qualifying Tourn,2012,PGA TOUR Qualifying Tournament
+682,088,PGA TOUR Qualifying Tourn,2000,PGA TOUR Qualifying Tournament
+683,088,PGA TOUR Qualifying Tourn,2006,PGA TOUR Qualifying Tournament
+684,088,PGA TOUR Qualifying Tourn,2011,PGA TOUR Qualifying Tournament
+685,041,Valero Texas Open,2016,Valero Texas Open
+686,041,Valero Texas Open,2014,Valero Texas Open
+687,041,Valero Texas Open,2002,Valero Texas Open
+688,041,Valero Texas Open,2003,Valero Texas Open
+689,041,Valero Texas Open,2005,Valero Texas Open
+690,041,Valero Texas Open,2011,Valero Texas Open
+691,041,Valero Texas Open,2009,Valero Texas Open
+692,041,Valero Texas Open,2010,Valero Texas Open
+693,041,Valero Texas Open,2013,Valero Texas Open
+694,041,Valero Texas Open,2017,Valero Texas Open
+695,041,Valero Texas Open,2008,Valero Texas Open
+696,041,Valero Texas Open,2004,Valero Texas Open
+697,041,Valero Texas Open,2015,Valero Texas Open
+698,041,Valero Texas Open,2012,Valero Texas Open
+699,041,Valero Texas Open,2006,Valero Texas Open
+700,041,Valero Texas Open,2018,Valero Texas Open
+701,041,Valero Texas Open,2007,Valero Texas Open
+702,041,Westin Texas Open,2000,Westin Texas Open at LaCantera
+703,041,Texas Open at LaCantera,2001,Texas Open at LaCantera
+704,470,WGC-Accenture Match Play,2009,World Golf Championships-Accenture Match Play Championship
+705,470,WGC-Accenture Match Play,2011,World Golf Championships-Accenture Match Play Championship
+706,470,WGC-Accenture Match Play,2007,World Golf Championships-Accenture Match Play Championship
+707,470,WGC-Accenture Match Play,2003,World Golf Championships-Accenture Match Play Championship
+708,470,WGC-Accenture Match Play,2005,World Golf Championships-Accenture Match Play Championship
+709,470,WGC-Accenture Match Play,2013,World Golf Championships-Accenture Match Play Championship
+710,470,WGC-Accenture Match Play,2010,World Golf Championships-Accenture Match Play Championship
+711,470,WGC-Accenture Match Play,2004,World Golf Championships-Accenture Match Play Championship
+712,470,WGC-Accenture Match Play,2014,World Golf Championships-Accenture Match Play Championship
+713,470,WGC-Accenture Match Play,2000,World Golf Championships-Accenture Match Play Championship
+714,470,WGC-Accenture Match Play,2001,World Golf Championships-Accenture Match Play Championship
+715,470,WGC-Accenture Match Play,2012,World Golf Championships-Accenture Match Play Championship
+716,470,WGC-Accenture Match Play,2008,World Golf Championships-Accenture Match Play Championship
+717,470,WGC-Accenture Match Play,2006,World Golf Championships-Accenture Match Play Championship
+718,470,WGC-Accenture Match Play,2002,World Golf Championships-Accenture Match Play Championship
+719,470,WGC-Dell Match Play,2016,World Golf Championships-Dell Match Play
+720,470,WGC-Cadillac Match Play,2015,World Golf Championships-Cadillac Match Play
+721,470,WGC-Dell Tech Match Play,2017,World Golf Championships-Dell Technologies Match Play
+722,464,Frys.com Open,2016,Frys.com Open
+723,464,Frys.com Open,2014,Frys.com Open
+724,464,Frys.com Open,2015,Frys.com Open
+725,464,Frys.com Open,2011,Frys.com Open
+726,464,Frys.com Open,2010,Frys.com Open
+727,464,Frys.com Open,2013,Frys.com Open
+728,464,Frys.com Open,2008,Frys.com Open
+729,464,Frys.com Open,2009,Frys.com Open
+730,464,Frys.com Open,2012,Frys.com Open
+731,464,Fry's Electronics Open,2007,Fry's Electronics Open
+732,464,Safeway Open,2018,Safeway Open
+733,464,Safeway Open,2017,Safeway Open
+734,040,Buick Challenge,2001,Buick Challenge
+735,040,Buick Challenge,2002,Buick Challenge
+736,040,Buick Challenge,2000,Buick Challenge
+737,022,BellSouth Classic,2004,BellSouth Classic
+738,022,BellSouth Classic,2000,BellSouth Classic
+739,022,BellSouth Classic,2003,BellSouth Classic
+740,022,BellSouth Classic,2001,BellSouth Classic
+741,022,BellSouth Classic,2002,BellSouth Classic
+742,022,BellSouth Classic,2005,BellSouth Classic
+743,022,BellSouth Classic,2006,BellSouth Classic
+744,022,AT&T; Classic,2007,AT&T; Classic
+745,022,AT&T; Classic,2008,AT&T; Classic
+746,045,FUNAI Classic-Disney,2003,FUNAI Classic at the WALT DISNEY WORLD Resort
+747,045,FUNAI Classic-Disney,2006,FUNAI Classic at the WALT DISNEY WORLD Resort
+748,045,FUNAI Classic-Disney,2005,FUNAI Classic at the WALT DISNEY WORLD Resort
+749,045,FUNAI Classic-Disney,2004,FUNAI Classic at the WALT DISNEY WORLD Resort
+750,045,National Car at Disney,2001,National Car Rental Golf Classic Disney
+751,045,National Car at Disney,2000,National Car Rental Golf Classic Disney
+752,045,Disney Golf Classic,2002,Disney Golf Classic
+753,045,Children's Miracle-Disney,2007,Children's Miracle Network Classic presented by Wal-Mart
+754,045,Children's Miracle-Disney,2008,Children's Miracle Network Classic presented by Wal-Mart
+755,045,Children's Miracle-Disney,2009,Children's Miracle Network Classic
+756,045,Children's Miracle-Disney,2010,Children's Miracle Network Classic
+757,045,Children's Miracle,2012,Children's Miracle Network Hospitals Classic
+758,045,Children's Miracle,2011,Children's Miracle Network Hospitals Classic
+759,054,Southern Farm Bureau Clas,2000,Southern Farm Bureau Classic
+760,054,Southern Farm Bureau Clas,2002,Southern Farm Bureau Classic
+761,054,Southern Farm Bureau Clas,2006,Southern Farm Bureau Classic
+762,054,Southern Farm Bureau Clas,2005,Southern Farm Bureau Classic
+763,054,Southern Farm Bureau Clas,2004,Southern Farm Bureau Classic
+764,054,Southern Farm Bureau Clas,2001,Southern Farm Bureau Classic
+765,054,Southern Farm Bureau Clas,2003,Southern Farm Bureau Classic
+766,054,Sanderson Farms Champ.,2014,Sanderson Farms Championship
+767,054,Sanderson Farms Champ.,2016,Sanderson Farms Championship
+768,054,Sanderson Farms Champ.,2018,Sanderson Farms Championship
+769,054,Sanderson Farms Champ.,2017,Sanderson Farms Championship
+770,054,Sanderson Farms Champ.,2015,Sanderson Farms Championship
+771,054,Sanderson Farms Champ.,2013,Sanderson Farms Championship
+772,054,Viking Classic,2007,Viking Classic
+773,054,Viking Classic,2008,Viking Classic
+774,054,Viking Classic,2011,Viking Classic
+775,054,Viking Classic,2010,Viking Classic
+776,054,Viking Classic,2009,Viking Classic
+777,054,True South Classic,2012,True South Classic
+778,020,Shell Houston Open,2009,Shell Houston Open
+779,020,Shell Houston Open,2014,Shell Houston Open
+780,020,Shell Houston Open,2003,Shell Houston Open
+781,020,Shell Houston Open,2011,Shell Houston Open
+782,020,Shell Houston Open,2015,Shell Houston Open
+783,020,Shell Houston Open,2001,Shell Houston Open
+784,020,Shell Houston Open,2004,Shell Houston Open
+785,020,Shell Houston Open,2007,Shell Houston Open
+786,020,Shell Houston Open,2006,Shell Houston Open
+787,020,Shell Houston Open,2016,Shell Houston Open
+788,020,Shell Houston Open,2012,Shell Houston Open
+789,020,Shell Houston Open,2002,Shell Houston Open
+790,020,Shell Houston Open,2008,Shell Houston Open
+791,020,Shell Houston Open,2010,Shell Houston Open
+792,020,Shell Houston Open,2017,Shell Houston Open
+793,020,Shell Houston Open,2005,Shell Houston Open
+794,020,Shell Houston Open,2013,Shell Houston Open
+795,020,Shell Houston Open,2000,Shell Houston Open
+796,020,Houston Open,2018,Houston Open
+797,483,Puerto Rico Open,2010,Puerto Rico Open presented by Banco Popular
+798,483,Puerto Rico Open,2013,Puerto Rico Open presented by seepuertorico.com
+799,483,Puerto Rico Open,2015,Puerto Rico Open
+800,483,Puerto Rico Open,2016,Puerto Rico Open at Coco Beach
+801,483,Puerto Rico Open,2011,Puerto Rico Open presented by seepuertorico.com
+802,483,Puerto Rico Open,2012,Puerto Rico Open presented by seepuertorico.com
+803,483,Puerto Rico Open,2017,Puerto Rico Open
+804,483,Puerto Rico Open,2009,Puerto Rico Open presented by Banco Popular
+805,483,Puerto Rico Open,2014,Puerto Rico Open presented by seepuertorico.com
+806,483,Puerto Rico Open,2008,Puerto Rico Open presented by Banco Popular
+807,026,U.S. Open,2011,U.S. Open
+808,026,U.S. Open,2014,U.S. Open
+809,026,U.S. Open,2016,U.S. Open
+810,026,U.S. Open,2013,U.S. Open
+811,026,U.S. Open,2018,U.S. Open
+812,026,U.S. Open,2017,U.S. Open
+813,026,U.S. Open,2012,U.S. Open
+814,026,U.S. Open,2015,U.S. Open
+815,026,U.S. Open Championship,2005,U.S. Open Championship
+816,026,U.S. Open Championship,2000,U.S. Open Championship
+817,026,U.S. Open Championship,2007,U.S. Open Championship
+818,026,U.S. Open Championship,2010,U.S. Open Championship
+819,026,U.S. Open Championship,2002,U.S. Open Championship
+820,026,U.S. Open Championship,2003,U.S. Open Championship
+821,026,U.S. Open Championship,2004,U.S. Open Championship
+822,026,U.S. Open Championship,2006,U.S. Open Championship
+823,026,U.S. Open Championship,2009,U.S. Open Championship
+824,026,U.S. Open Championship,2001,U.S. Open Championship
+825,026,U.S. Open Championship,2008,U.S. Open Championship
+826,007,Nissan Open,2005,Nissan Open
+827,007,Nissan Open,2006,Nissan Open
+828,007,Nissan Open,2004,Nissan Open
+829,007,Nissan Open,2007,Nissan Open
+830,007,Nissan Open,2003,Nissan Open
+831,007,Nissan Open,2001,Nissan Open
+832,007,Nissan Open,2002,Nissan Open
+833,007,Nissan Open,2000,Nissan Open
+834,007,Northern Trust Open,2013,Northern Trust Open
+835,007,Northern Trust Open,2012,Northern Trust Open
+836,007,Northern Trust Open,2015,Northern Trust Open
+837,007,Northern Trust Open,2009,Northern Trust Open
+838,007,Northern Trust Open,2011,Northern Trust Open
+839,007,Northern Trust Open,2016,Northern Trust Open
+840,007,Northern Trust Open,2014,Northern Trust Open
+841,007,Northern Trust Open,2008,Northern Trust Open
+842,007,Northern Trust Open,2010,Northern Trust Open
+843,007,Genesis Open,2017,Genesis Open
+844,007,Genesis Open,2018,Genesis Open
+845,028,BMW Championship,2015,BMW Championship
+846,028,BMW Championship,2008,BMW Championship
+847,028,BMW Championship,2018,BMW Championship
+848,028,BMW Championship,2016,BMW Championship
+849,028,BMW Championship,2013,BMW Championship
+850,028,BMW Championship,2012,BMW Championship
+851,028,BMW Championship,2009,BMW Championship
+852,028,BMW Championship,2010,BMW Championship
+853,028,BMW Championship,2011,BMW Championship
+854,028,BMW Championship,2014,BMW Championship
+855,028,BMW Championship,2007,BMW Championship
+856,028,Cialis Western Open,2006,Cialis Western Open
+857,028,Cialis Western Open,2005,Cialis Western Open
+858,028,Cialis Western Open,2004,Cialis Western Open
+859,028,Advil Western Open,2001,Advil Western Open
+860,028,Advil Western Open,2000,Advil Western Open
+861,028,Advil Western Open,2002,Advil Western Open
+862,028,100th Western Open,2003,100th Western Open presented by Golf Digest
+863,047,Michelin Championship,2004,Michelin Championship at Las Vegas
+864,047,Michelin Championship,2005,Michelin Championship at Las Vegas
+865,047,Frys.com Open,2006,Frys.com Open
+866,047,Frys.com Open,2007,Frys.com Open benefiting Shriners Hospitals for Children
+867,047,Shriners Hospitals,2018,Shriners Hospitals for Children Open
+868,047,Shriners Hospitals,2015,Shriners Hospitals for Children Open
+869,047,Shriners Hospitals,2014,Shriners Hospitals for Children Open
+870,047,Shriners Hospitals,2013,Shriners Hospitals for Children Open
+871,047,Shriners Hospitals,2016,Shriners Hospitals for Children Open
+872,047,Shriners Hospitals,2017,Shriners Hospitals for Children Open
+873,047,Invensys Clssic/Las Vegas,2000,Invensys Classic at Las Vegas
+874,047,Invensys Clssic Las Vegas,2001,Invensys Classic at Las Vegas
+875,047,Invensys Clssic Las Vegas,2002,Invensys Classic at Las Vegas
+876,047,Justin Timberlake,2010,Justin Timberlake Shriners Hospitals for Children Open
+877,047,Justin Timberlake,2011,Justin Timberlake Shriners Hospitals for Children Open
+878,047,Justin Timberlake,2009,Justin Timberlake Shriners Hospitals for Children Open
+879,047,Justin Timberlake,2008,Justin Timberlake Shriners Hospitals for Children Open
+880,047,Las Vegas Invitational,2003,Las Vegas Invitational
+881,047,JT Shriners,2012,Justin Timberlake Shriners Hospitals for Children Open
+882,051,Merrill Lynch Skins Game,2005,Merrill Lynch Skins Game
+883,051,Merrill Lynch Skins Game,2004,Merrill Lynch Skins Game
+884,051,LG SKINS GAME,2006,LG SKINS GAME
+885,051,LG SKINS GAME,2008,LG SKINS GAME
+886,051,LG SKINS GAME,2007,LG SKINS GAME
+887,051,Skins Game,2001,Skins Game
+888,051,Skins Game,2000,Skins Game
+889,051,Skins Game,2002,Skins Game
+890,051,ConAgra Foods Skins Game,2003,The ConAgra Foods Skins Game
+891,494,CIMB Classic,2015,CIMB Classic
+892,494,CIMB Classic,2014,CIMB Classic
+893,494,CIMB Classic,2013,CIMB Classic
+894,494,CIMB Classic,2018,CIMB Classic
+895,494,CIMB Classic,2016,CIMB Classic
+896,494,CIMB Classic,2017,CIMB Classic
+897,494,CIMB Classic,2012,CIMB Classic
+898,494,CIMB Asia Pacific Classic,2010,CIMB Asia Pacific Classic Malaysia
+899,494,CIMB Asia Pacific Classic,2011,CIMB Asia Pacific Classic Malaysia
+900,008,Ford Championship @ Doral,2004,Ford Championship at Doral
+901,008,Ford Championship @ Doral,2003,Ford Championship at Doral
+902,008,Ford Championship @ Doral,2006,Ford Championship at Doral
+903,008,Ford Championship @ Doral,2005,Ford Championship at Doral
+904,008,Genuity Championship,2001,Genuity Championship
+905,008,Genuity Championship,2002,Genuity Championship
+906,008,Doral-Ryder Open,2000,Doral-Ryder Open
+907,023,the Memorial Tournament,2011,the Memorial Tournament presented by Nationwide Insurance
+908,023,the Memorial Tournament,2007,the Memorial Tournament presented by Morgan Stanley
+909,023,the Memorial Tournament,2016,the Memorial Tournament presented by Nationwide
+910,023,the Memorial Tournament,2017,the Memorial Tournament presented by Nationwide
+911,023,the Memorial Tournament,2018,the Memorial Tournament presented by Nationwide
+912,023,the Memorial Tournament,2004,the Memorial Tournament
+913,023,the Memorial Tournament,2014,the Memorial Tournament presented by Nationwide Insurance
+914,023,the Memorial Tournament,2008,the Memorial Tournament presented by Morgan Stanley
+915,023,the Memorial Tournament,2006,the Memorial Tournament
+916,023,the Memorial Tournament,2013,the Memorial Tournament presented by Nationwide Insurance
+917,023,the Memorial Tournament,2012,the Memorial Tournament presented by Nationwide Insurance
+918,023,the Memorial Tournament,2010,the Memorial Tournament presented by Nationwide Insurance
+919,023,the Memorial Tournament,2003,the Memorial Tournament
+920,023,the Memorial Tournament,2009,the Memorial Tournament
+921,023,the Memorial Tournament,2005,the Memorial Tournament
+922,023,the Memorial Tournament,2015,the Memorial Tournament presented by Nationwide
+923,023,Memorial Tournament,2000,Memorial Tournament
+924,023,Memorial Tournament,2002,Memorial Tournament
+925,023,Memorial Tournament,2001,Memorial Tournament
+926,056,The INTERNATIONAL,2003,The INTERNATIONAL
+927,056,The INTERNATIONAL,2005,The INTERNATIONAL
+928,056,The INTERNATIONAL,2006,The INTERNATIONAL
+929,056,The INTERNATIONAL,2004,The INTERNATIONAL
+930,056,The International/Qwest,2000,The International Presented by Qwest
+931,056,The INTERNATIONAL Qwest,2001,The INTERNATIONAL Presented by Qwest
+932,056,The INTERNATIONAL Qwest,2002,The INTERNATIONAL Presented by Qwest
+933,519,Olympic Men's Golf,2016,Olympic Men's Golf Competition
+934,490,The Greenbrier,2018,A Military Tribute at The Greenbrier
+935,490,The Greenbrier Classic,2011,The Greenbrier Classic
+936,490,The Greenbrier Classic,2017,The Greenbrier Classic
+937,490,The Greenbrier Classic,2012,The Greenbrier Classic
+938,490,The Greenbrier Classic,2015,The Greenbrier Classic
+939,490,The Greenbrier Classic,2014,The Greenbrier Classic
+940,490,The Greenbrier Classic,2010,The Greenbrier Classic
+941,490,The Greenbrier Classic,2013,The Greenbrier Classic
+942,029,U.S. Bank in Milwaukee,2007,U.S. Bank Championship in Milwaukee
+943,029,U.S. Bank in Milwaukee,2008,U.S. Bank Championship in Milwaukee
+944,029,U.S. Bank in Milwaukee,2005,U.S. Bank Championship in Milwaukee
+945,029,U.S. Bank in Milwaukee,2004,U.S. Bank Championship in Milwaukee
+946,029,U.S. Bank in Milwaukee,2009,U.S. Bank Championship in Milwaukee
+947,029,U.S. Bank in Milwaukee,2006,U.S. Bank Championship in Milwaukee
+948,029,Greater Milwaukee Open,2003,Greater Milwaukee Open
+949,029,Greater Milwaukee Open,2001,Greater Milwaukee Open
+950,029,Greater Milwaukee Open,2002,Greater Milwaukee Open
+951,029,Greater Milwaukee Open,2000,Greater Milwaukee Open

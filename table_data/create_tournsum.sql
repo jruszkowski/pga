@@ -1,3 +1,4 @@
+DROP TABLE pga.tournsum;
 CREATE TABLE pga.tournsum (
 id INT AUTO_INCREMENT primary key NOT NULL,
 t_id char(3),
