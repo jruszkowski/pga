@@ -131,10 +131,11 @@ def create_images(past_results):
     df_tscore = pd.DataFrame.from_dict(stat_tscore, orient='index')	
     df_tscore.columns = ['tscore']
     df_tscore['tscore_abs'] = df_tscore['tscore'].abs()
+    df_tscore['key_value'] = pd.Series({v: k for k, v in stats.items()})
     print (df_tscore.sort_values('tscore_abs', ascending=False).head(10))
 
 def get_ols(past_results, get_params=False):
-    ind_var = [158, 144, 129, 147, 103]
+    ind_var = [114, 217, 113, 119, 216, 399]
     df = pd.DataFrame.from_dict(past_results, orient='index')
     for stat in ind_var:
         page = pagename + str(stat) + '.' + str(year) + pagenameend
@@ -144,14 +145,14 @@ def get_ols(past_results, get_params=False):
            print(stats[stat], 'No good')
            continue
     df = df.rename(columns={0:'Result'})
-    result = sm2.ols(formula="Result ~ STRIKE + PAR5 + DRIVE + PUTT3_25 + GIR", data=df).fit()
+    result = sm2.ols(formula="Result ~ BIRD_5 + D240 + BIRD_4 + PUTTS + D260 + PUTT2", data=df).fit()
     if get_params:
         return (result.params.to_dict())
     print (result.summary())
 
 
 def get_predicted_score(d_params):
-    ind_var = [158, 144, 129, 147, 103]
+    ind_var = [114, 217, 113, 119, 216]
     new_field = []
     new_field_dict = scrape_field.field_dictionary()
     for key in new_field_dict.keys():
@@ -163,7 +164,7 @@ def get_predicted_score(d_params):
     df = df.rename(columns={0: 'PredictedScore'})
     df = df.set_index('PredictedScore')
     for stat in ind_var:
-       page = pagename + str(stat) + '.' + str(year) + pagenameend
+       page = pagename + str(stat) + '.' + pagenameend
        try:
            df[stats[stat]] = pd.DataFrame.from_dict(createdict(page), orient='index')
        except:
@@ -171,13 +172,13 @@ def get_predicted_score(d_params):
            continue
 
     df['Prediction'] = d_params['Intercept'] \
-            + d_params['STRIKE'] * df['STRIKE'] \
-            + d_params['PAR5'] * df['PAR5'] \
-            + d_params['DRIVE'] * df['DRIVE'] \
-            + d_params['PUTT3_25'] * df['PUTT3_25'] \
-            + d_params['GIR'] * df['GIR'] \
+            + d_params['BIRD_5'] * df['BIRD_5'] \
+            + d_params['D240'] * df['D240'] \
+            + d_params['BIRD_4'] * df['BIRD_4'] \
+            + d_params['PUTTS'] * df['PUTTS'] \
+            + d_params['D260'] * df['D260'] \
 #    df = df['Prediction']
-    df.to_csv('zurich_cut.csv')
+    df.to_csv('pga.csv')
 
     return df.to_dict()
 
@@ -189,7 +190,7 @@ if __name__=='__main__':
     #print (scipy.stats.describe(list(c.values())))
     create_images(f)
     get_ols(f)
-    #get_predicted_score(get_ols(f, True))
-    get_predicted_score(get_ols(c, True))
+    get_predicted_score(get_ols(f, True))
+    #get_predicted_score(get_ols(c, True))
     #for past_results in [f, c]:
     #	create_images(past_results)
