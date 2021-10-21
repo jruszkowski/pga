@@ -24,7 +24,7 @@ tourneyids = [
 '490'
 ]
 
-years = list(range(2017,2019))
+years = list(range(2017,2022))
 
 for tourneyid in tourneyids:
     for year in years:

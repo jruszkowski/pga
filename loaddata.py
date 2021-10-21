@@ -82,59 +82,63 @@ def loadhistoricaldata():
     field = defaultdict(defaultdict)
     setup = defaultdict(defaultdict)
     for f in filelist:
-        if f.split('_')[2].split('.')[0] == 'tournsum':
-            year = f.split('_')[1]
-            tid = f.split('_')[0]
-            with open(filedirectory + f, encoding='utf-8') as json_data:
-                try:
+        if f != '.ipynb_checkpoints':
+            if f.split('_')[2].split('.')[0] == 'tournsum':
+                year = f.split('_')[1]
+                tid = f.split('_')[0]
+                with open(filedirectory + f, encoding='utf-8') as json_data:
                     d = json.load(json_data)
                     for key in d.keys():
                         if key == 'years':
                             if d[key][0]['tours'][0]['tourName'] == 'PGA TOUR':
                                 if d[key][0]['tours'][0]['trns'][0]['shortName'] not in tournsum[tid].keys():
                                     tournsum[tid][d[key][0]['tours'][0]['trns'][0]['shortName']] = {}
-                                tournsum[tid][d[key][0]['tours'][0]['trns'][0]['shortName']][int(year)] =\
+                                    tournsum[tid][d[key][0]['tours'][0]['trns'][0]['shortName']][int(year)] =\
                                         {'tournamentname': d[key][0]['tours'][0]['trns'][0]['fullName'],\
                                         'players': tournsumplyrdata(d[key][0]['tours'][0]['trns'][0]['plrs'])
                                         }
-                except:
-                    continue
+                                else:
+                                    tournsum[tid][d[key][0]['tours'][0]['trns'][0]['shortName']][int(year)] =\
+                                        {'tournamentname': d[key][0]['tours'][0]['trns'][0]['fullName'],\
+                                        'players': tournsumplyrdata(d[key][0]['tours'][0]['trns'][0]['plrs'])
+                                        }
 
-        if f.split('_')[2].split('.')[0] == 'field':
-            year = f.split('_')[1]
-            with open(filedirectory + f, encoding='utf-8') as json_data:
-                try:
-                    d = json.load(json_data)
-                    for key in d.keys():
-                        if e_utf(key) == 'Tournament':
-                            #if e_utf(d[key]['TournamentPermId']) not in field.keys():
-                            #        field[e_utf(d[key]['TournamentPermId'])] = {}
-                            field[e_utf(d[key]['TournamentPermId'])][int(year)] = {\
-                                    'tournamentname': e_utf(d[key]['TournamentName']),\
-                                    't_id': e_utf(d[key]['T_ID']),\
-                                    'players': plyrdata(d[key]['Players'])}
-                except:
-                        continue
 
-        if f.split('_')[2].split('.')[0] == 'setup':
-            year = f.split('_')[1]
-            if year not in setup.keys():
-                setup[year] = {}
-            with open(filedirectory + f, encoding='utf-8') as json_data:
-                try:
-                    d = json.load(json_data)
-                    for key in d.keys():
-                        if e_utf(key) == 'trn':
-                            setup[year][e_utf(d[key]['event']['name'])] = {'fieldsize': intconv(d[key]['event']['fieldSize']),\
-                                'totalrnds': intconv(d[key]['event']['totalRnds'])}
-                            for plyr in d[key]['field']:
-                                setup[year][e_utf(d[key]['event']['name'])][e_utf(plyr['id'])] = \
-                                            {'name': e_utf(plyr['name']['first'] + ' ' + plyr['name']['last']),\
-                                            'plyrname': e_utf(plyr['name']['last'] + ', ' + plyr['name']['first']),\
-                                            'money': {'ytdtotal': intconv(plyr['money']['ytdTotal']),\
-                                            'ytdrank': intconv(plyr['money']['ytdRank']),\
-                                            'ytdtrailing': intconv(plyr['money']['ytdTtrailing'])}}
-                except:
-                        continue
+            if f.split('_')[2].split('.')[0] == 'field':
+                year = f.split('_')[1]
+                with open(filedirectory + f, encoding='utf-8') as json_data:
+                    try:
+                        d = json.load(json_data)
+                        for key in d.keys():
+                            if e_utf(key) == 'Tournament':
+                                #if e_utf(d[key]['TournamentPermId']) not in field.keys():
+                                #        field[e_utf(d[key]['TournamentPermId'])] = {}
+                                field[e_utf(d[key]['TournamentPermId'])][int(year)] = {\
+                                        'tournamentname': e_utf(d[key]['TournamentName']),\
+                                        't_id': e_utf(d[key]['T_ID']),\
+                                        'players': plyrdata(d[key]['Players'])}
+                    except:
+                            continue
+
+            if f.split('_')[2].split('.')[0] == 'setup':
+                year = f.split('_')[1]
+                if year not in setup.keys():
+                    setup[year] = {}
+                with open(filedirectory + f, encoding='utf-8') as json_data:
+                    try:
+                        d = json.load(json_data)
+                        for key in d.keys():
+                            if e_utf(key) == 'trn':
+                                setup[year][e_utf(d[key]['event']['name'])] = {'fieldsize': intconv(d[key]['event']['fieldSize']),\
+                                    'totalrnds': intconv(d[key]['event']['totalRnds'])}
+                                for plyr in d[key]['field']:
+                                    setup[year][e_utf(d[key]['event']['name'])][e_utf(plyr['id'])] = \
+                                                {'name': e_utf(plyr['name']['first'] + ' ' + plyr['name']['last']),\
+                                                'plyrname': e_utf(plyr['name']['last'] + ', ' + plyr['name']['first']),\
+                                                'money': {'ytdtotal': intconv(plyr['money']['ytdTotal']),\
+                                                'ytdrank': intconv(plyr['money']['ytdRank']),\
+                                                'ytdtrailing': intconv(plyr['money']['ytdTtrailing'])}}
+                    except:
+                            continue
 
     return tournsum, field, setup

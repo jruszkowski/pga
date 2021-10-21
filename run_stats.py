@@ -3,7 +3,6 @@ import sys
 import urllib.request
 from bs4 import BeautifulSoup
 from unicodedata import normalize
-import mysql.connector
 import scrape_field
 import pandas as pd
 import statsmodels.api as sm
@@ -15,27 +14,6 @@ from math import ceil
 
 pagename = "http://www.pgatour.com/stats/stat."
 pagenameend = ".html"
-
-cnx = mysql.connector.connect(user='root', password='',
-                              host='130.211.169.146',
-                              database='pga')
-
-def get_scores(year, shortname):
-    cursor=cnx.cursor()
-    query = ("select plyr_name, \
-                    totalscore, \
-                    finposnum \
-                    from tournsum where year = '%s' \
-                                    and shortname = '%s' \
-                                    and totalscore > 120;" % (year, shortname))
-    cursor.execute(query)
-    results = {x: (z, int(y)) for x,y,z in cursor}
-    cursor.close()
-    cnx.close()
-    finisher_results = {x: y[1] for x,y in results.items() if y[0] < 999 and y[1] > 240}
-    cut_results = {x: y[1] for x,y in results.items() if y[0] == 999}
-    return finisher_results, cut_results
-
 
 stats = {
 102: 'ACCURATE',
@@ -83,7 +61,7 @@ def createdict(url):
    dict_page = {}
    request = urllib.request.Request(url)
    response = urllib.request.urlopen(request)
-   soup = BeautifulSoup(response, "lxml")
+   soup = BeautifulSoup(response, "html.parser")
    right_table = soup.find('table', class_='table-styled')
    for row in right_table.findAll("tr"):
        cells = row.findAll('td')
