@@ -1,0 +1,1 @@
+{"header":{"version":"1.0"},"pageType":"course","tourCode":"r","permNum":"016","pageTitle":"Course","courses":[{"number":"656","sortOrder":"1","name":"Plantation Course at Kapalua","parValue":"5","yards":"677","body":"","image":"","holes":[{"number":"18","parValue":"5","yards":"677","body":"","image":""}]}]}

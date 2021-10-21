@@ -1,0 +1,1 @@
+{"header":{"version":"1.0"},"pageType":"course","tourCode":"r","permNum":"018","pageTitle":"Course","courses":[{"number":"714","sortOrder":"1","name":"TPC Louisiana","parValue":"8","yards":"792","body":"","image":"","holes":[{"number":"9","parValue":"3","yards":"207","body":"","image":""},{"number":"18","parValue":"5","yards":"585","body":"","image":""}]}]}
